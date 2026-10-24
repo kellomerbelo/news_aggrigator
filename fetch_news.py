@@ -3,7 +3,7 @@ import logging
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional
 import feedparser
-from deep_translator import GoogleTranslator
+from deep_translator import MyMemoryTranslator
 
 # Configure Logging
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s] %(levelname)s - %(message)s")
@@ -86,7 +86,6 @@ RSS_FEEDS = [
 
 WINDOW_HOURS = 12
 MAX_ITEMS = 300
-BATCH_SIZE = 40  # Safe chunk size for translate_batch
 
 
 def _parse_entry_datetime(entry: Any) -> Optional[datetime]:
@@ -97,25 +96,22 @@ def _parse_entry_datetime(entry: Any) -> Optional[datetime]:
     return dt_naive.replace(tzinfo=timezone.utc)
 
 
-def batch_translate(texts: List[str], source_lang: str = "tr", target_lang: str = "iw") -> List[str]:
-    """Translates a list of texts in safe chunks to avoid rate limit errors."""
+def translate_texts(texts: List[str]) -> List[str]:
+    """Translates using MyMemoryTranslator via deep_translator, avoiding Google block limits."""
     if not texts:
         return []
-
-    translator = GoogleTranslator(source=source_lang, target=target_lang)
-    translated_results: List[str] = []
-
-    for i in range(0, len(texts), BATCH_SIZE):
-        chunk = texts[i : i + BATCH_SIZE]
+    
+    translator = MyMemoryTranslator(source="tr", target="he")
+    translated_results = []
+    
+    for title in texts:
         try:
-            translations = translator.translate_batch(chunk)
-            translated_results.extend(translations)
-            logger.info("Translated batch %d to %d successfully.", i + 1, i + len(chunk))
+            res = translator.translate(title)
+            translated_results.append(res if res else title)
         except Exception as exc:
-            logger.warning("Batch translation error for chunk starting at %d: %s", i, exc)
-            # Fallback to original text for this chunk
-            translated_results.extend(chunk)
-
+            logger.warning("Translation warning for '%s': %s", title[:30], exc)
+            translated_results.append(title)
+            
     return translated_results
 
 
@@ -126,7 +122,6 @@ def parse_and_fetch():
     raw_entries: List[Dict[str, Any]] = []
     seen_links = set()
 
-    # Step 1: Gather items from all RSS feeds
     for feed in RSS_FEEDS:
         name = feed["name"]
         url = feed["url"]
@@ -155,18 +150,13 @@ def parse_and_fetch():
         except Exception as exc:
             logger.warning("Error fetching %s (%s): %s", name, url, exc)
 
-    logger.info("Collected %d unique items. Sorting and trimming to max %d items...", len(raw_entries), MAX_ITEMS)
-
-    # Step 2: Sort by latest timestamp and trim down to MAX_ITEMS before translation
     raw_entries.sort(key=lambda x: x["timestamp"], reverse=True)
     raw_entries = raw_entries[:MAX_ITEMS]
 
-    # Step 3: Extract Turkish titles and translate in batch chunks
     titles_tr = [item["title_tr"] for item in raw_entries]
-    logger.info("Batch translating %d titles to Hebrew...", len(titles_tr))
-    titles_he = batch_translate(titles_tr, source_lang="tr", target_lang="iw")
+    logger.info("Translating %d titles to Hebrew...", len(titles_tr))
+    titles_he = translate_texts(titles_tr)
 
-    # Step 4: Combine translated titles into final list
     all_items = []
     for idx, item in enumerate(raw_entries):
         hebrew_title = titles_he[idx] if idx < len(titles_he) else item["title_tr"]
@@ -180,7 +170,6 @@ def parse_and_fetch():
             }
         )
 
-    # Step 5: Save to news.json
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)
 
