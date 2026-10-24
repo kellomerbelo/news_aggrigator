@@ -3,7 +3,7 @@ name: Update News Feed
 on:
   schedule:
     - cron: '*/15 * * * *'  # Runs every 15 minutes
-  workflow_dispatch:        # Allows manual trigger
+  workflow_dispatch:        # Allows manual trigger from Actions tab
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser deep-translator
+          pip install feedparser googletrans==4.0.0-rc1
 
       - name: Fetch & Translate News
         run: python fetch_news.py
