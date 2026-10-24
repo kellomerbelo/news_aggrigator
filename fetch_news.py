@@ -1,11 +1,13 @@
 import json
 import logging
 from datetime import datetime, timedelta, timezone
+from typing import Any, Dict, List, Optional
 import feedparser
 from deep_translator import GoogleTranslator
 
 # Configure Logging
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s] %(levelname)s - %(message)s")
+logger = logging.getLogger("haberdakika")
 
 RSS_FEEDS = [
     {"name": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/anasayfa"},
@@ -84,50 +86,106 @@ RSS_FEEDS = [
 
 WINDOW_HOURS = 12
 MAX_ITEMS = 300
+BATCH_SIZE = 40  # Safe chunk size for translate_batch
 
-translator = GoogleTranslator(source='tr', target='iw')  # 'iw' or 'he' for Hebrew
+
+def _parse_entry_datetime(entry: Any) -> Optional[datetime]:
+    time_struct = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+    if time_struct is None:
+        return None
+    dt_naive = datetime(*time_struct[:6])
+    return dt_naive.replace(tzinfo=timezone.utc)
+
+
+def batch_translate(texts: List[str], source_lang: str = "tr", target_lang: str = "iw") -> List[str]:
+    """Translates a list of texts in safe chunks to avoid rate limit errors."""
+    if not texts:
+        return []
+
+    translator = GoogleTranslator(source=source_lang, target=target_lang)
+    translated_results: List[str] = []
+
+    for i in range(0, len(texts), BATCH_SIZE):
+        chunk = texts[i : i + BATCH_SIZE]
+        try:
+            translations = translator.translate_batch(chunk)
+            translated_results.extend(translations)
+            logger.info("Translated batch %d to %d successfully.", i + 1, i + len(chunk))
+        except Exception as exc:
+            logger.warning("Batch translation error for chunk starting at %d: %s", i, exc)
+            # Fallback to original text for this chunk
+            translated_results.extend(chunk)
+
+    return translated_results
+
 
 def parse_and_fetch():
-    all_items = []
-    seen_links = set()
+    logger.info("Starting feed collection from %d feeds...", len(RSS_FEEDS))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)
 
+    raw_entries: List[Dict[str, Any]] = []
+    seen_links = set()
+
+    # Step 1: Gather items from all RSS feeds
     for feed in RSS_FEEDS:
+        name = feed["name"]
+        url = feed["url"]
         try:
-            parsed = feedparser.parse(feed["url"])
+            parsed = feedparser.parse(url)
             for entry in parsed.entries:
                 title = getattr(entry, "title", "").strip()
                 link = getattr(entry, "link", "").strip()
                 if not title or not link or link in seen_links:
                     continue
 
+                pub_date = _parse_entry_datetime(entry)
+                if pub_date and pub_date < cutoff:
+                    continue
+
                 seen_links.add(link)
-
-                # Translate Turkish title to Hebrew
-                try:
-                    title_hebrew = translator.translate(title)
-                except Exception as e:
-                    logging.warning(f"Translation error for '{title}': {e}")
-                    title_hebrew = title  # Fallback to original title
-
-                all_items.append({
-                    "source": feed["name"],
-                    "title_tr": title,
-                    "title_he": title_hebrew,
-                    "link": link,
-                    "fetched_at": datetime.now(timezone.utc).isoformat()
-                })
+                raw_entries.append(
+                    {
+                        "source": name,
+                        "title_tr": title,
+                        "link": link,
+                        "timestamp": pub_date.timestamp() if pub_date else datetime.now(timezone.utc).timestamp(),
+                        "fetched_at": datetime.now(timezone.utc).isoformat(),
+                    }
+                )
         except Exception as exc:
-            logging.warning(f"Error fetching {feed['name']}: {exc}")
+            logger.warning("Error fetching %s (%s): %s", name, url, exc)
 
-    # Keep only the newest items up to MAX_ITEMS
-    all_items = all_items[:MAX_ITEMS]
+    logger.info("Collected %d unique items. Sorting and trimming to max %d items...", len(raw_entries), MAX_ITEMS)
 
-    # Save to JSON file
+    # Step 2: Sort by latest timestamp and trim down to MAX_ITEMS before translation
+    raw_entries.sort(key=lambda x: x["timestamp"], reverse=True)
+    raw_entries = raw_entries[:MAX_ITEMS]
+
+    # Step 3: Extract Turkish titles and translate in batch chunks
+    titles_tr = [item["title_tr"] for item in raw_entries]
+    logger.info("Batch translating %d titles to Hebrew...", len(titles_tr))
+    titles_he = batch_translate(titles_tr, source_lang="tr", target_lang="iw")
+
+    # Step 4: Combine translated titles into final list
+    all_items = []
+    for idx, item in enumerate(raw_entries):
+        hebrew_title = titles_he[idx] if idx < len(titles_he) else item["title_tr"]
+        all_items.append(
+            {
+                "source": item["source"],
+                "title_tr": item["title_tr"],
+                "title_he": hebrew_title,
+                "link": item["link"],
+                "fetched_at": item["fetched_at"],
+            }
+        )
+
+    # Step 5: Save to news.json
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)
 
-    logging.info(f"Successfully exported {len(all_items)} news items to news.json")
+    logger.info("Successfully exported %d news items to news.json", len(all_items))
+
 
 if __name__ == "__main__":
     parse_and_fetch()
