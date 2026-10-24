@@ -1,6 +1,5 @@
 import json
 import logging
-import requests
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional
 import feedparser
@@ -57,31 +56,6 @@ RSS_FEEDS = [
     {"name": "Habertürk Ekonomi", "url": "https://www.haberturk.com/rss/ekonomi"},
     {"name": "Sabah Ekonomi", "url": "https://www.sabah.com.tr/rss/ekonomi.xml"},
     {"name": "Cumhuriyet Ekonomi", "url": "https://www.cumhuriyet.com.tr/rss/ekonomi"},
-    {"name": "Yetkin Report", "url": "https://yetkinreport.com/en/category/politics/feed/"},
-    {"name": "National Turk", "url": "https://www.nationalturk.com/en/feed"},
-    {"name": "A News", "url": "https://www.anews.com.tr/rss-feed"},
-    {"name": "Insight Turkey", "url": "https://www.insightturkey.com/services/rss.xml"},
-    {"name": "Duvar English", "url": "https://www.duvarenglish.com/export/rss"},
-    {"name": "Türkiye Gazetesi Politika", "url": "https://www.turkiyegazetesi.com.tr/politika/rss"},
-    {"name": "Euronews Turkish Politics", "url": "https://www.euronews.com/tag/turkish-politics/rss"},
-    {"name": "Haberler.com", "url": "https://rss.haberler.com/rss.asp"},
-    {"name": "MFA Türkiye", "url": "https://www.mfa.gov.tr/rss.en.mfa"},
-    {"name": "Yenisaafak English", "url": "https://en.yenisafak.com/rss-list"},
-    {"name": "Property Turkey", "url": "https://www.propertyturkey.com/blog-turkey/rss.xml"},
-    {"name": "One Nation Travel", "url": "https://www.onenationtravel.com/blog/rss.xml"},
-    {"name": "Turkish Foodie", "url": "https://www.turkishfoodie.com/feed"},
-    {"name": "Fethiye Times", "url": "https://www.fethiyetimes.com/feed"},
-    {"name": "Yabangee", "url": "https://yabangee.com/feed"},
-    {"name": "CEE Legal Matters Turkey", "url": "https://ceelegalmatters.com/turkey/feed"},
-    {"name": "Turkish Law Blog", "url": "https://turkishlawblog.com/feed"},
-    {"name": "Doing Business in Turkey", "url": "https://www.doingbusinessinturkey.com/feed"},
-    {"name": "Gaming in Turkey", "url": "https://gaminginturkey.com/en/feed"},
-    {"name": "Fluent in Turkish", "url": "https://fluentinturkish.com/feed"},
-    {"name": "HandsOnTurkish", "url": "https://turkishonline.eu/blog/feed"},
-    {"name": "Ozlem's Turkish Table", "url": "https://ozlemsturkishtable.com/feed"},
-    {"name": "Turkey's For Life", "url": "https://www.turkeysforlife.com/feeds/posts/default"},
-    {"name": "Jane in Mersin", "url": "https://janeyinmersin.com/feed"},
-    {"name": "Almost Turkish Recipes", "url": "https://almostturkishrecipes.com/feed"},
 ]
 
 WINDOW_HOURS = 12
@@ -94,24 +68,6 @@ def _parse_entry_datetime(entry: Any) -> Optional[datetime]:
         return None
     dt_naive = datetime(*time_struct[:6])
     return dt_naive.replace(tzinfo=timezone.utc)
-
-
-def translate_text(text: str) -> str:
-    """Translate using MyMemory API directly via HTTP requests."""
-    if not text.strip():
-        return text
-    try:
-        url = "https://api.mymemory.translated.net/get"
-        params = {"q": text, "langpair": "tr|he"}
-        response = requests.get(url, params=params, timeout=10)
-        data = response.json()
-        if data.get("responseStatus") == 200:
-            translated = data["responseData"]["translatedText"]
-            if translated:
-                return translated
-    except Exception as e:
-        logger.warning("Translation error: %s", e)
-    return text
 
 
 def parse_and_fetch():
@@ -140,7 +96,7 @@ def parse_and_fetch():
                 raw_entries.append(
                     {
                         "source": name,
-                        "title_tr": title,
+                        "title": title,
                         "link": link,
                         "timestamp": pub_date.timestamp() if pub_date else datetime.now(timezone.utc).timestamp(),
                         "fetched_at": datetime.now(timezone.utc).isoformat(),
@@ -149,29 +105,14 @@ def parse_and_fetch():
         except Exception as exc:
             logger.warning("Error fetching %s (%s): %s", name, url, exc)
 
+    # Sort newest items first and trim
     raw_entries.sort(key=lambda x: x["timestamp"], reverse=True)
     raw_entries = raw_entries[:MAX_ITEMS]
 
-    logger.info("Translating %d titles to Hebrew...", len(raw_entries))
-    all_items = []
-    for item in raw_entries:
-        title_tr = item["title_tr"]
-        title_he = translate_text(title_tr)
-
-        all_items.append(
-            {
-                "source": item["source"],
-                "title_tr": title_tr,
-                "title_he": title_he,
-                "link": item["link"],
-                "fetched_at": item["fetched_at"],
-            }
-        )
-
     with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(all_items, f, ensure_ascii=False, indent=2)
+        json.dump(raw_entries, f, ensure_ascii=False, indent=2)
 
-    logger.info("Successfully exported %d news items to news.json", len(all_items))
+    logger.info("Successfully exported %d news items to news.json", len(raw_entries))
 
 
 if __name__ == "__main__":
