@@ -1,9 +1,10 @@
 import json
 import logging
+import time
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional
 import feedparser
-from deep_translator import MyMemoryTranslator
+from googletrans import Translator
 
 # Configure Logging
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s] %(levelname)s - %(message)s")
@@ -96,25 +97,6 @@ def _parse_entry_datetime(entry: Any) -> Optional[datetime]:
     return dt_naive.replace(tzinfo=timezone.utc)
 
 
-def translate_texts(texts: List[str]) -> List[str]:
-    """Translates using MyMemoryTranslator via deep_translator, avoiding Google block limits."""
-    if not texts:
-        return []
-    
-    translator = MyMemoryTranslator(source="tr", target="he")
-    translated_results = []
-    
-    for title in texts:
-        try:
-            res = translator.translate(title)
-            translated_results.append(res if res else title)
-        except Exception as exc:
-            logger.warning("Translation warning for '%s': %s", title[:30], exc)
-            translated_results.append(title)
-            
-    return translated_results
-
-
 def parse_and_fetch():
     logger.info("Starting feed collection from %d feeds...", len(RSS_FEEDS))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)
@@ -150,21 +132,32 @@ def parse_and_fetch():
         except Exception as exc:
             logger.warning("Error fetching %s (%s): %s", name, url, exc)
 
+    # Sort and slice down to MAX_ITEMS *before* translating so we never waste translations
     raw_entries.sort(key=lambda x: x["timestamp"], reverse=True)
     raw_entries = raw_entries[:MAX_ITEMS]
 
-    titles_tr = [item["title_tr"] for item in raw_entries]
-    logger.info("Translating %d titles to Hebrew...", len(titles_tr))
-    titles_he = translate_texts(titles_tr)
-
+    logger.info("Translating %d items using googletrans with rate-limiting protection...", len(raw_entries))
+    translator = Translator()
+    
     all_items = []
     for idx, item in enumerate(raw_entries):
-        hebrew_title = titles_he[idx] if idx < len(titles_he) else item["title_tr"]
+        title_tr = item["title_tr"]
+        title_he = title_tr  # Fallback default
+        
+        try:
+            # Explicit small delay to stay under Google's 5 req/sec threshold
+            time.sleep(0.2)
+            res = translator.translate(title_tr, src='tr', dest='he')
+            if res and res.text:
+                title_he = res.text
+        except Exception as e:
+            logger.warning("Translation warning on item %d: %s", idx, e)
+
         all_items.append(
             {
                 "source": item["source"],
-                "title_tr": item["title_tr"],
-                "title_he": hebrew_title,
+                "title_tr": title_tr,
+                "title_he": title_he,
                 "link": item["link"],
                 "fetched_at": item["fetched_at"],
             }
