@@ -105,7 +105,6 @@ def parse_and_fetch():
         except Exception as exc:
             logger.warning("Error fetching %s (%s): %s", name, url, exc)
 
-    # Sort newest items first and trim
     raw_entries.sort(key=lambda x: x["timestamp"], reverse=True)
     raw_entries = raw_entries[:MAX_ITEMS]
 
