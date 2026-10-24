@@ -1,10 +1,9 @@
 import json
 import logging
-import time
+import requests
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional
 import feedparser
-from googletrans import Translator
 
 # Configure Logging
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s] %(levelname)s - %(message)s")
@@ -97,6 +96,24 @@ def _parse_entry_datetime(entry: Any) -> Optional[datetime]:
     return dt_naive.replace(tzinfo=timezone.utc)
 
 
+def translate_text(text: str) -> str:
+    """Translate using MyMemory API directly via HTTP requests."""
+    if not text.strip():
+        return text
+    try:
+        url = "https://api.mymemory.translated.net/get"
+        params = {"q": text, "langpair": "tr|he"}
+        response = requests.get(url, params=params, timeout=10)
+        data = response.json()
+        if data.get("responseStatus") == 200:
+            translated = data["responseData"]["translatedText"]
+            if translated:
+                return translated
+    except Exception as e:
+        logger.warning("Translation error: %s", e)
+    return text
+
+
 def parse_and_fetch():
     logger.info("Starting feed collection from %d feeds...", len(RSS_FEEDS))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)
@@ -132,26 +149,14 @@ def parse_and_fetch():
         except Exception as exc:
             logger.warning("Error fetching %s (%s): %s", name, url, exc)
 
-    # Sort and slice down to MAX_ITEMS *before* translating so we never waste translations
     raw_entries.sort(key=lambda x: x["timestamp"], reverse=True)
     raw_entries = raw_entries[:MAX_ITEMS]
 
-    logger.info("Translating %d items using googletrans with rate-limiting protection...", len(raw_entries))
-    translator = Translator()
-    
+    logger.info("Translating %d titles to Hebrew...", len(raw_entries))
     all_items = []
-    for idx, item in enumerate(raw_entries):
+    for item in raw_entries:
         title_tr = item["title_tr"]
-        title_he = title_tr  # Fallback default
-        
-        try:
-            # Explicit small delay to stay under Google's 5 req/sec threshold
-            time.sleep(0.2)
-            res = translator.translate(title_tr, src='tr', dest='he')
-            if res and res.text:
-                title_he = res.text
-        except Exception as e:
-            logger.warning("Translation warning on item %d: %s", idx, e)
+        title_he = translate_text(title_tr)
 
         all_items.append(
             {
