@@ -2,14 +2,14 @@ name: Update News Feed
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Runs automatically every 15 minutes
-  workflow_dispatch:        # Allows manual trigger from Actions tab
+    - cron: '7,22,37,52 * * * *'  # ירוץ כל 15 דקות אבל בדקות 7, 22, 37, 52 (עוקף את העומס ב-GitHub)
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # Grants write permission to push updated news.json
+      contents: write
 
     steps:
       - name: Checkout Code
@@ -25,7 +25,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Fetch and Translate News
+      - name: Fetch News
         run: python fetch_news.py
 
       - name: Commit and Push Updated news.json
