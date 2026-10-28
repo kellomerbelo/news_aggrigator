@@ -1,75 +1,91 @@
-<div id="haberdakika-container" dir="rtl" style="font-family: Arial, sans-serif; background: #f9f9f9; padding: 15px; border-radius: 8px; border: 1px solid #ddd; max-width: 600px; margin: auto;">
-  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #ce2029; padding-bottom: 8px; margin-bottom: 12px;">
-    <h3 style="margin: 0; color: #333; font-size: 1.2rem;">
-      מבזקי חדשות טורקיה (עדכון חי)
-    </h3>
+<!DOCTYPE html>
+<html lang="tr" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Turkey News Widget</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <div id="haberdakika-container" dir="rtl" style="font-family: Arial, sans-serif; background: #f9f9f9; padding: 15px; border-radius: 8px; border: 1px solid #ddd;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #ce2029; padding-bottom: 8px; margin-bottom: 12px;">
+      <h3 style="margin: 0; color: #333; font-size: 1.2rem;">
+        מבזקי חדשות טורקיה (עדכון חי)
+      </h3>
+      <div id="google_translate_element"></div>
+    </div>
+    <div id="news-feed" style="max-height: 450px; overflow-y: auto;">
+      <p>טוען מבזקים...</p>
+    </div>
   </div>
-  <div id="news-feed" style="max-height: 450px; overflow-y: auto;">
-    <p>טוען מבזקים...</p>
-  </div>
-</div>
 
-<script>
-  const jsonUrl = "https://kellomerbelo.github.io/news_aggrigator/news.json";
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'tr',
+        includedLanguages: 'iw,tr',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+        autoDisplay: true
+      }, 'google_translate_element');
 
-  async function translateText(text) {
-    try {
-      const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=tr|he`;
-      const res = await fetch(url);
-      const data = await res.json();
-      
-      // Check if response contains the usage limit warning
-      if (data && data.responseData && data.responseData.translatedText) {
-        let translated = data.responseData.translatedText;
-        if (translated.includes("MYMEMORY WARNING")) {
-          return text; // Fallback to original Turkish text if limit is hit
+      setTimeout(function() {
+        var select = document.querySelector('.goog-te-combo');
+        if (select) {
+          select.value = 'iw';
+          select.dispatchEvent(new Event('change'));
         }
-        return translated;
-      }
-    } catch (e) {
-      console.error("Translation error:", e);
+      }, 1000);
     }
-    return text; // Fallback on error
-  }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-  async function loadNews() {
-    const container = document.getElementById("news-feed");
-    try {
-      const response = await fetch(jsonUrl + '?t=' + new Date().getTime());
-      const newsItems = await response.json();
+  <script>
+    const jsonUrl = "https://kellomerbelo.github.io/news_aggrigator/news.json";
 
-      if (!newsItems || newsItems.length === 0) {
-        container.innerHTML = "<p>אין מבזקים חדשים כרגע.</p>";
-        return;
+    async function loadNews() {
+      const container = document.getElementById("news-feed");
+      try {
+        const response = await fetch(jsonUrl + '?t=' + new Date().getTime());
+        const newsItems = await response.json();
+
+        if (!newsItems || newsItems.length === 0) {
+          container.innerHTML = "<p>אין מבזקים חדשים כרגע.</p>";
+          return;
+        }
+
+        let html = '<ul style="list-style: none; padding: 0; margin: 0;">';
+        const itemsToDisplay = newsItems.slice(0, 50);
+
+        itemsToDisplay.forEach(item => {
+          html += `
+            <li style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #eee;">
+              <span style="background: #ce2029; color: #fff; font-size: 0.75rem; padding: 2px 6px; border-radius: 4px; display: inline-block; margin-left: 6px;">
+                ${item.source}
+              </span>
+              <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="color: #111; text-decoration: none; font-weight: bold; line-height: 1.4;">
+                ${item.title}
+              </a>
+            </li>
+          `;
+        });
+        html += '</ul>';
+
+        container.innerHTML = html;
+      } catch (error) {
+        console.error("Error loading news feed:", error);
+        container.innerHTML = "<p>שגיאה בטעינת המבזקים.</p>";
       }
-
-      let html = '<ul style="list-style: none; padding: 0; margin: 0;">';
-      // Reduced to 10 items to prevent burning through free limits too fast if used
-      const itemsToDisplay = newsItems.slice(0, 10); 
-
-      for (let item of itemsToDisplay) {
-        let displayTitle = await translateText(item.title);
-
-        html += `
-          <li style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #eee;">
-            <span style="background: #ce2029; color: #fff; font-size: 0.75rem; padding: 2px 6px; border-radius: 4px; display: inline-block; margin-left: 6px;">
-              ${item.source}
-            </span>
-            <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="color: #111; text-decoration: none; font-weight: bold; line-height: 1.4;">
-              ${displayTitle}
-            </a>
-          </li>
-        `;
-      }
-      html += '</ul>';
-
-      container.innerHTML = html;
-    } catch (error) {
-      console.error("Error loading news feed:", error);
-      container.innerHTML = "<p>שגיאה בטעינת המבזקים.</p>";
     }
-  }
 
-  loadNews();
-  setInterval(loadNews, 600000); // Refresh every 10 minutes to save quota
-</script>
+    loadNews();
+    setInterval(loadNews, 180000);
+  </script>
+</body>
+</html>
