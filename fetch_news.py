@@ -72,7 +72,8 @@ def _parse_entry_datetime(entry: Any) -> Optional[datetime]:
 
 def parse_and_fetch():
     logger.info("Starting feed collection from %d feeds...", len(RSS_FEEDS))
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)
+    now_utc = datetime.now(timezone.utc)
+    cutoff = now_utc - timedelta(hours=WINDOW_HOURS)
 
     raw_entries: List[Dict[str, Any]] = []
     seen_links = set()
@@ -93,13 +94,18 @@ def parse_and_fetch():
                     continue
 
                 seen_links.add(link)
+                
+                # Fallback to current time if feed item lacks a publication timestamp
+                final_dt = pub_date if pub_date else now_utc
+
                 raw_entries.append(
                     {
                         "source": name,
                         "title": title,
                         "link": link,
-                        "timestamp": pub_date.timestamp() if pub_date else datetime.now(timezone.utc).timestamp(),
-                        "fetched_at": datetime.now(timezone.utc).isoformat(),
+                        "timestamp": final_dt.timestamp(),
+                        "datetime_str": final_dt.strftime("%Y-%m-%d %H:%M:%S"),
+                        "fetched_at": now_utc.isoformat(),
                     }
                 )
         except Exception as exc:
