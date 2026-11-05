@@ -64,12 +64,25 @@
         const itemsToDisplay = newsItems.slice(0, 50);
 
         itemsToDisplay.forEach(item => {
+          // Format timestamp nicely if available (showing hours & minutes primarily, or full string)
+          let timeDisplay = "";
+          if (item.datetime_str) {
+            // Optional: slice out seconds if you prefer "YYYY-MM-DD HH:MM" instead of "HH:MM:SS"
+            // e.g. item.datetime_str.slice(0, 16)
+            timeDisplay = item.datetime_str;
+          }
+
           html += `
             <li style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #eee;">
-              <span style="background: #ce2029; color: #fff; font-size: 0.75rem; padding: 2px 6px; border-radius: 4px; display: inline-block; margin-left: 6px;">
-                ${item.source}
-              </span>
-              <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="color: #111; text-decoration: none; font-weight: bold; line-height: 1.4;">
+              <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 4px;">
+                <span style="background: #ce2029; color: #fff; font-size: 0.75rem; padding: 2px 6px; border-radius: 4px; display: inline-block;">
+                  ${item.source}
+                </span>
+                <span style="font-size: 0.75rem; color: #666;">
+                  ${timeDisplay}
+                </span>
+              </div>
+              <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="color: #111; text-decoration: none; font-weight: bold; line-height: 1.4; display: block;">
                 ${item.title}
               </a>
             </li>
