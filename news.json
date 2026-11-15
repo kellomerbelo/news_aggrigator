@@ -1,11 +1,699 @@
 [
   {
+    "source": "Milliyet",
+    "title": "Ankara'da sağanak etkili oldu",
+    "link": "https://www.milliyet.com.tr/gundem/ankarada-saganak-etkili-oldu-7700929",
+    "timestamp": 1794711216.0,
+    "datetime_str": "2026-11-15 02:53:36",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Diyanet Ata’nın mirasına göz dikti",
+    "link": "https://www.sozcu.com.tr/diyanet-ata-nin-mirasina-goz-dikti-p381409",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Kalbimizde yaşayacaksınız",
+    "link": "https://www.sozcu.com.tr/kalbimizde-yasayacaksiniz-p381408",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Resepsiyondaki uğultu Abdulkadir Uraloğlu’nu kızdırdı! Bakanı dinlemediler",
+    "link": "https://www.sozcu.com.tr/resepsiyondaki-ugultu-abdulkadir-uraloglu-nu-kizdirdi-bakani-dinlemediler-p381407",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Nice 43 yıllara",
+    "link": "https://www.sozcu.com.tr/nice-43-yillara-p381406",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Tek yol iktidar",
+    "link": "https://www.sozcu.com.tr/tek-yol-iktidar-p381405",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Kim bu iş adamı?",
+    "link": "https://www.sozcu.com.tr/kim-bu-is-adami-p381404",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Bir günün farkı 17 yıl olamaz!",
+    "link": "https://www.sozcu.com.tr/bir-gunun-farki-17-yil-olamaz-p381399",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Yoksul çocuğa montu bile çok gördüler",
+    "link": "https://www.sozcu.com.tr/yoksul-cocuga-montu-bile-cok-gorduler-p381397",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Bir polis daha canına kıydı",
+    "link": "https://www.sozcu.com.tr/bir-polis-daha-canina-kiydi-p381395",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Bağışıklığınız kışa hazır mı?",
+    "link": "https://www.sozcu.com.tr/bagisikliginiz-kisa-hazir-mi-p381394",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Bu üçlü kavuşuma dikkat!",
+    "link": "https://www.sozcu.com.tr/bu-uclu-kavusuma-dikkat-p381391",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Bir salon, iki kurultay",
+    "link": "https://www.sozcu.com.tr/bir-salon-iki-kurultay-p381386",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "YENİ Parti’nin yasama, yürütme, örgüt meclisi",
+    "link": "https://www.sozcu.com.tr/yeni-parti-nin-yasama-yurutme-orgut-meclisi-p381378",
+    "timestamp": 1794709830.0,
+    "datetime_str": "2026-11-15 02:30:30",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "NTV",
+    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Kasım 2026",
+    "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-kasim-2026-1750900",
+    "timestamp": 1794709800.0,
+    "datetime_str": "2026-11-15 02:30:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Habertürk",
+    "title": "Ali Koç'tan sunucuya Türkiye uyarısı",
+    "link": "https://www.haberturk.com/gundem/ali-koc-tan-cop31-de-sunucuya-turkiye-uyarisi-3927439",
+    "timestamp": 1794709739.0,
+    "datetime_str": "2026-11-15 02:28:59",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Sözcü Spor",
+    "title": "Alev alan araçta can pazarı: 2 ölü, 5 yaralı",
+    "link": "https://www.sozcu.com.tr/direge-carpan-otomobil-alev-aldi-2-olu-5-yarali-p381411",
+    "timestamp": 1794709701.0,
+    "datetime_str": "2026-11-15 02:28:21",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Habertürk",
+    "title": "İtalya'dan Meta'ya 805 milyon euro ceza!",
+    "link": "https://www.haberturk.com/dunya/italya-dan-meta-ya-805-milyon-euro-ceza-3927438",
+    "timestamp": 1794708518.0,
+    "datetime_str": "2026-11-15 02:08:38",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Habertürk",
+    "title": "\"İran, Trump'ı İHA saldırısıyla hedef alacak\"",
+    "link": "https://www.haberturk.com/dunya/israil-basini-iran-in-trump-i-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti-3927437",
+    "timestamp": 1794707841.0,
+    "datetime_str": "2026-11-15 01:57:21",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "BATRAKOV MODASI!",
+    "link": "https://www.turkiyegazetesi.com.tr/spor/batrakov-modasi-galatasarayin-altin-cocugunun-urunlerine-buyuk-ilgi-1829392",
+    "timestamp": 1794706668.0,
+    "datetime_str": "2026-11-15 01:37:48",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
     "source": "CNN Türk",
     "title": "Mossad'dan CIA'ye kritik İran istihbaratı! Trump'a İHA saldırısı iddiası",
     "link": "https://www.cnnturk.com/dunya/mossaddan-ciaye-kritik-iran-istihbarati-trumpa-iha-saldirisi-iddiasi-3493250",
     "timestamp": 1794706406.0,
     "datetime_str": "2026-11-15 01:33:26",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Beşiktaş’tan ocak ayı için çek stoper atağı",
+    "link": "https://www.turkiyegazetesi.com.tr/spor/vitik-hamlesi-besiktastan-ocak-ayi-icin-cek-stoper-atagi-1829391",
+    "timestamp": 1794705161.0,
+    "datetime_str": "2026-11-15 01:12:41",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Habertürk",
+    "title": "Arap Koalisyonu: Suudi Arabistan’ın doğusunda bir İHA engellendi",
+    "link": "https://www.haberturk.com/dunya/arap-koalisyonu-suudi-arabistanin-dogusunda-bir-iha-engellendi-3927436",
+    "timestamp": 1794704924.0,
+    "datetime_str": "2026-11-15 01:08:44",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Milliyet",
+    "title": "Adana'da komşular arasında silahlı kavga: 1'i ağır 5 yaralı",
+    "link": "https://www.milliyet.com.tr/gundem/adanada-komsular-arasinda-silahli-kavga-1i-agir-5-yarali-7700927",
+    "timestamp": 1794704719.0,
+    "datetime_str": "2026-11-15 01:05:19",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Çan kulesinde bir sanat",
+    "link": "https://www.cumhuriyet.com.tr/pazar-yazilari/can-kulesinde-bir-sanat-2556198",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Gurbetin çocukları",
+    "link": "https://www.cumhuriyet.com.tr/pazar-yazilari/gurbetin-cocuklari-2556199",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Cenazesine azıcık geç kaldı",
+    "link": "https://www.cumhuriyet.com.tr/pazar-yazilari/cenazesine-azicik-gec-kaldi-2556201",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "YENİ Parti’nin şansı ve bagajı",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/yeni-parti-nin-sansi-ve-bagaji-2556202",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Gazi Eğitim Enstitüsü",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/ozdemir-ince/gazi-egitim-enstitusu-2556203",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Hayvanlar için destek verilecek iki önemli proje!",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/zulal-kalkandelen/hayvanlar-icin-destek-verilecek-iki-onemli-proje-2556204",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Kuruluş kurultayı: Cesaret ve mücadele azmi üst noktada",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/kurulus-kurultayi-cesaret-ve-mucadele-azmi-ust-noktada-2556205",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Seni ölüm ülkesi yaptılar güzel ülkem",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/isil-ozgenturk/seni-olum-ulkesi-yaptilar-guzel-ulkem-2556206",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Üç fatura: Manipülasyonun ekonomisi",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/veysel-ulusoy/uc-fatura-manipulasyonun-ekonomisi-2556207",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Trumpizmin sonu serap mıydı?",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/nilgun-cerrahoglu/trumpizmin-sonu-serap-miydi-2556209",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Saha ardındaki kara düzen!",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/tugrul-aksar/saha-ardindaki-kara-duzen-2556210",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Gel de kitap oku",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/gel-de-kitap-oku-2556211",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Kim Kime Dum Duma - 15 Kasım 2026",
+    "link": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-15-kasim-2026-2556212",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Çizgilik - 15 Kasım 2026",
+    "link": "https://www.cumhuriyet.com.tr/cizerler/cizgilik-15-kasim-2026-2556213",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Belediye başkanının kızı çarpmıştı: Yağmur Pehlivanlı davasında ilk duruşma görüldü",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/belediye-baskaninin-kizi-carpmisti-yagmur-pehlivanli-davasinda-ilk-durusma-goruldu-2556214",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Genel Sağlık-İş’ten bütçe raporu",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/genel-saglik-is-ten-butce-raporu-2556215",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Kaş Devlet Hastanesi’nde ‘Atatürk’ rahatsızlığı!",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kas-devlet-hastanesi-nde-ataturk-rahatsizligi-2556216",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Milli Eğitim Bakanlığı ölçme ve değerlendirme kurallarını güncelledi",
+    "link": "https://www.cumhuriyet.com.tr/egitim/milli-egitim-bakanligi-olcme-ve-degerlendirme-kurallarini-guncelledi-2556217",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "YENİ Parti lideri Özel, partisinin kuruluş kurultayında iktidar sözü verdi",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-lideri-ozel-partisinin-kurulus-kurultayinda-iktidar-sozu-verdi-2556218",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Çocukların güvenli ortamda öğrenim görmesi için iklim zirvesine çağrı",
+    "link": "https://www.cumhuriyet.com.tr/egitim/cocuklarin-guvenli-ortamda-ogrenim-gormesi-icin-iklim-zirvesine-cagri-2556219",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Muhalefetin yeni örgütlü kurumu YENİ Parti, kuruluş kurultayını yapıyor",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/muhalefetin-yeni-orgutlu-kurumu-yeni-parti-kurulus-kurultayini-yapiyor-2556220",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "‘Bir ay esir tutulduk’",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/bir-ay-esir-tutulduk-2556221",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu: Gösterişli vaat yerine birikmiş sorunları sabırla çözüyoruz",
+    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/ardesen-belediye-baskani-enver-atagun-cumhuriyet-e-konustu-gosterisli-vaat-yerine-birikmis-sorunlari-sabirla-cozuyoruz-2556222",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Mamak Belediyesi’nin, Üreğil Millet Bahçesi’ndeki yenileme ve geliştirme çalışmaları sürüyor",
+    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/mamak-belediyesi-nin-uregil-millet-bahcesi-ndeki-yenileme-ve-gelistirme-calismalari-suruyor-2556223",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Portekiz’deki eylemler, barınmanın toplumsal bir hak olarak kabul edilmesi talebi",
+    "link": "https://www.cumhuriyet.com.tr/dunya/portekiz-deki-eylemler-barinmanin-toplumsal-bir-hak-olarak-kabul-edilmesi-talebi-2556224",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "‘Tek çiçekle bahar gelmiyor’",
+    "link": "https://www.cumhuriyet.com.tr/spor/tek-cicekle-bahar-gelmiyor-2556225",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "İBB Miras’ın son çalışması olan mekân Haliç Tersanesi’nde kamunun hizmetinde",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/ibb-miras-in-son-calismasi-olan-mekan-halic-tersanesi-nde-kamunun-hizmetinde-2556226",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "Vitrindeki Albümler - 15 Kasım 2026",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/vitrindeki-albumler-15-kasim-2026-2556227",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Cumhuriyet",
+    "title": "'Stok yapın' çağrılarından sonra uzaylı paniği!",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/savaskan-iskefli/stok-yapin-cagrilarindan-sonra-uzayli-panigi-2556229",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Şehit Yazıcıoğlu suikastı ve komplo",
+    "link": "https://www.yenisafak.com/yazarlar/hayreddin-karaman/sehit-yazicioglu-suikasti-ve-komplo-4872509",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "İlkokullarda başarı yarışı olmayacak",
+    "link": "https://www.yenisafak.com/gundem/ilkokullarda-basari-yarisi-olmayacak-4872511",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Büyük resimlerin içindeki küçük resim",
+    "link": "https://www.yenisafak.com/yazarlar/yasar-sungu/buyuk-resimlerin-icindeki-kucuk-resim-4872513",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Akkuyu'da 5 Türk operatör göreve hazır",
+    "link": "https://www.yenisafak.com/ekonomi/akkuyuda-5-turk-operator-goreve-hazir-4872514",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Kusursuz fırtına mı geliyor?",
+    "link": "https://www.yenisafak.com/yazarlar/yusuf-dinc/kusursuz-firtina-mi-geliyor-4872515",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "TÜRKSAT'tan güneş enerjili kesintisiz internet",
+    "link": "https://www.yenisafak.com/ekonomi/turksattan-gunes-enerjili-kesintisiz-internet-4872516",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Pandemi bize bilginin gücünü öğretti, biz yine liyakati unuttuk!",
+    "link": "https://www.yenisafak.com/yazarlar/ahmet-unlu/pandemi-bize-bilginin-gucunu-ogretti-biz-yine-liyakati-unuttuk-4872517",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Gelecek nesilleri birlikte koruyalım",
+    "link": "https://www.yenisafak.com/ekonomi/gelecek-nesilleri-birlikte-koruyalim-4872518",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Yeşil dönüşümün teknolojileri COP31'de",
+    "link": "https://www.yenisafak.com/teknoloji/yesil-donusumun-teknolojileri-cop31de-4872519",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Batı uygarlığının akıl tutsaklığından İslâm medeniyetinin diriliş ufkuna…",
+    "link": "https://www.yenisafak.com/yazarlar/yusuf-kaplan/bati-uygarliginin-akil-tutsakligindan-islam-medeniyetinin-dirilis-ufkuna-4872520",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Gazze acil yardım bekliyor",
+    "link": "https://www.yenisafak.com/dunya/gazze-acil-yardim-bekliyor-4872521",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "İsrail ve ABD engel çıkarmaya devam ediyor",
+    "link": "https://www.yenisafak.com/dunya/israil-ve-abd-engel-cikarmaya-devam-ediyor-4872522",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "ABD semalarında iletişim kaosu",
+    "link": "https://www.yenisafak.com/dunya/abd-semalarinda-iletisim-kaosu-4872523",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "AK Parti önümüzdeki seçimlerde en güçlü desteği genç seçmenden alacak",
+    "link": "https://www.yenisafak.com/yazarlar/ihsan-aktas/ak-parti-onumuzdeki-secimlerde-en-guclu-destegi-genc-secmenden-alacak-4872524",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Özgür Özel yeniden genel başkan",
+    "link": "https://www.yenisafak.com/gundem/ozgur-ozel-yeniden-genel-baskan-4872525",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Adını hatırla!",
+    "link": "https://www.yenisafak.com/yazarlar/ersin-celik/adini-hatirla-4872526",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Bolivya ile yeni iş birliği dönemi",
+    "link": "https://www.yenisafak.com/gundem/bolivya-ile-yeni-is-birligi-donemi-4872527",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Farabi için bilim köprüsü",
+    "link": "https://www.yenisafak.com/gundem/farabi-icin-bilim-koprusu-4872528",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Mekke İttifakı’nda onay tamam",
+    "link": "https://www.yenisafak.com/gundem/mekke-ittifakinda-onay-tamam-4872529",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "55 ülkeden vekiller Antalya’da buluşacak",
+    "link": "https://www.yenisafak.com/gundem/55-ulkeden-vekiller-antalyada-bulusacak-4872530",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "“Senin olayın ne!”",
+    "link": "https://www.yenisafak.com/yazarlar/fatma-barbarosoglu/senin-olayin-ne-4872531",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Sürüne sürüne varıp giden şol yılanın anlattığı",
+    "link": "https://www.yenisafak.com/yazarlar/ismail-kilicarslan/surune-surune-varip-giden-sol-yilanin-anlattigi-4872532",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Helikopter kazası şehitlerine acı veda: Yüreğimize gömdük",
+    "link": "https://www.yenisafak.com/gundem/helikopter-kazasi-sehitlerine-aci-veda-yuregimize-gomduk-4872533",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Demokratların iç savaşı başladı!",
+    "link": "https://www.yenisafak.com/yazarlar/abdullah-muradoglu/demokratlarin-ic-savasi-basladi-4872534",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Ev genci alarmı",
+    "link": "https://www.yenisafak.com/gundem/ev-genci-alarmi-4872535",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Genç istihdamına destek",
+    "link": "https://www.yenisafak.com/gundem/genc-istihdamina-destek-4872536",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Bu dünyadan bir Osman Yüksel Serdengeçti de geçti",
+    "link": "https://www.yenisafak.com/yazarlar/dursun-gurlek/bu-dunyadan-bir-osman-yuksel-serdengecti-de-gecti-4872537",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "SPK’dan 65 kişi için suç duyurusu",
+    "link": "https://www.yenisafak.com/gundem/spkdan-65-kisi-icin-suc-duyurusu-4872538",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "10 milyarlık kirli para trafiği deşifre oldu",
+    "link": "https://www.yenisafak.com/gundem/10-milyarlik-kirli-para-trafigi-desifre-oldu-4872539",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Tiroide ameliyatsız çözüm",
+    "link": "https://www.yenisafak.com/hayat/tiroide-ameliyatsiz-cozum-4872541",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Mantarı pişirmek zehri yok etmez",
+    "link": "https://www.yenisafak.com/hayat/mantari-pisirmek-zehri-yok-etmez-4872542",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Diyabet kapıyı çalmıyor!",
+    "link": "https://www.yenisafak.com/hayat/diyabet-kapiyi-calmiyor-4872543",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Ev genci alarmı",
+    "link": "https://www.yenisafak.com/galeri/gundem/ev-genci-alarmi-4872544",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Yeni Şafak",
+    "title": "Üsküp Köprüsü iki medeniyeti bağlıyor",
+    "link": "https://www.yenisafak.com/hayat/uskup-koprusu-iki-medeniyeti-bagliyor-4872545",
+    "timestamp": 1794704400.0,
+    "datetime_str": "2026-11-15 01:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -13,7 +701,7 @@
     "link": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-42-bolum-fragmani-izle-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-42-bolum-fragmani-yayinlandi-mi-3493228",
     "timestamp": 1794704358.0,
     "datetime_str": "2026-11-15 00:59:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -21,7 +709,39 @@
     "link": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-14-kasim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3493233",
     "timestamp": 1794704267.0,
     "datetime_str": "2026-11-15 00:57:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "DAĞITIN ŞU KARA BULUTLARI!",
+    "link": "https://www.turkiyegazetesi.com.tr/spor/dagitin-artik-su-kara-bulutlari-milli-takim-kaybettigi-oz-guvenini-ve-mucadele-ruhunu-1829389",
+    "timestamp": 1794703122.0,
+    "datetime_str": "2026-11-15 00:38:42",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Akkuyu' dan ekonomiye 50 milyar dolarlık katkı!",
+    "link": "https://www.turkiyegazetesi.com.tr/ekonomi/ekonomiye-50-milyar-dolarlik-katki-akkuyu-nukleer-as-yonetim-kurulu-baskani-dedusenko-1829384",
+    "timestamp": 1794702863.0,
+    "datetime_str": "2026-11-15 00:34:23",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Sanal pazardaki güvenlik zaafı vatandaşın cebini yakıyor!",
+    "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/ne-hizmet-ne-de-paralarini-geri-alabildiler-sanal-pazardaki-guvenlik-zaafi-vatandasin-1829359",
+    "timestamp": 1794702407.0,
+    "datetime_str": "2026-11-15 00:26:47",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Amazon’un alışveriş asistanı Alexa Türkiye’de",
+    "link": "https://www.turkiyegazetesi.com.tr/teknoloji/amazonun-alisveris-asistani-alexa-turkiyede-1829358",
+    "timestamp": 1794702016.0,
+    "datetime_str": "2026-11-15 00:20:16",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -29,7 +749,15 @@
     "link": "https://www.cnnturk.com/dunya/fransada-sokaklar-karisti-106-bin-kisi-meydanlara-indi-121-gozalti-3493249",
     "timestamp": 1794701989.0,
     "datetime_str": "2026-11-15 00:19:49",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Hurda aracını sokaktan kaldırmayan yandı!",
+    "link": "https://www.turkiyegazetesi.com.tr/gundem/hurda-aracini-sokaktan-kaldirmayan-yandi-para-cezasi-geliyor-1829369",
+    "timestamp": 1794701444.0,
+    "datetime_str": "2026-11-15 00:10:44",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -37,7 +765,7 @@
     "link": "https://www.cnnturk.com/video/dunya/israilin-iran-plani-masadaki-3-senaryo-ne-3493244",
     "timestamp": 1794701294.0,
     "datetime_str": "2026-11-15 00:08:14",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -45,7 +773,7 @@
     "link": "https://www.cnnturk.com/turkiye/bakanliktan-fal-buyu-ve-medyum-reklamlarina-yasak-sanal-medya-paylasimlari-mercek-altinda-3493248",
     "timestamp": 1794701176.0,
     "datetime_str": "2026-11-15 00:06:16",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -53,7 +781,7 @@
     "link": "https://www.cnnturk.com/spor/israil-turkiye-basketbol-maci-canli-izle-trt-spor-yildiz-israil-turkiye-basketbol-maci-hangi-kanalda-saat-kacta-canli-yayin-bilgileri-3493208",
     "timestamp": 1794700957.0,
     "datetime_str": "2026-11-15 00:02:37",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -61,7 +789,7 @@
     "link": "https://www.cnnturk.com/resmi-ilanlar/sariyer-belediye-baskanligi-3493195",
     "timestamp": 1794700818.0,
     "datetime_str": "2026-11-15 00:00:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -69,7 +797,7 @@
     "link": "https://www.cnnturk.com/resmi-ilanlar/esenyurt-vergi-dairesi-mudurlugu-3493198",
     "timestamp": 1794700818.0,
     "datetime_str": "2026-11-15 00:00:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -77,7 +805,7 @@
     "link": "https://www.cnnturk.com/resmi-ilanlar/istanbul-gayrimenkul-satis-icra-dairesi-mudurlugu-3493199",
     "timestamp": 1794700818.0,
     "datetime_str": "2026-11-15 00:00:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -85,7 +813,47 @@
     "link": "https://www.cnnturk.com/resmi-ilanlar/persembe-sulh-hukuk-mahkemesi-3493200",
     "timestamp": 1794700818.0,
     "datetime_str": "2026-11-15 00:00:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Diken",
+    "title": "Öksürük 101: Geçmek bilmiyorsa ne yapmalı?",
+    "link": "https://www.diken.com.tr/oksuruk-101-gecmek-bilmiyorsa-ne-yapmali/?utm_source=rss&utm_medium=rss&utm_campaign=oksuruk-101-gecmek-bilmiyorsa-ne-yapmali",
+    "timestamp": 1794700800.0,
+    "datetime_str": "2026-11-15 00:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Milliyet",
+    "title": "Muğla’da otomobil elektrik direğine çarpıp alev aldı! 2 ölü, 5 yaralı",
+    "link": "https://www.milliyet.com.tr/gundem/muglada-otomobil-elektrik-diregine-carpip-alev-aldi-2-olu-5-yarali-7700925",
+    "timestamp": 1794700019.0,
+    "datetime_str": "2026-11-14 23:46:59",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Kapıkule’den Gürbulak’a sınır kapıları yenileniyor",
+    "link": "https://www.turkiyegazetesi.com.tr/ekonomi/kapikuleden-gurbulaka-sinir-kapilari-yenileniyor-ticaret-bakanligi-gumruk-sahalarini-1829380",
+    "timestamp": 1794699859.0,
+    "datetime_str": "2026-11-14 23:44:19",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "YATIRIMCININ YENİ GÖZDESİ",
+    "link": "https://www.turkiyegazetesi.com.tr/emlak/yatirimcinin-yeni-gozdesi-depolar-ticari-gayrimenkulde-ezber-bozuluyor-1829377",
+    "timestamp": 1794699472.0,
+    "datetime_str": "2026-11-14 23:37:52",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Habertürk",
+    "title": "Fethiye'de can pazarı: 2 ölü, 5 yaralı",
+    "link": "https://www.haberturk.com/gundem/fethiye-de-can-pazari-elektrik-diregine-carpan-otomobil-alev-topuna-dondu-2-olu-5-yarali-3927435",
+    "timestamp": 1794699302.0,
+    "datetime_str": "2026-11-14 23:35:02",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -93,7 +861,23 @@
     "link": "https://www.cnnturk.com/turkiye/bakan-bolat-tarihin-en-kalabalik-cop-zirvesi-oluyor-3493246",
     "timestamp": 1794699156.0,
     "datetime_str": "2026-11-14 23:32:36",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "FRANSA-İSRAİL İŞİ SUNİ TERTİP",
+    "link": "https://www.turkiyegazetesi.com.tr/dunya/turkiye-ile-azerbaycanin-arasini-acmak-istiyorlar-kardeslige-g20-komplosu-1829385",
+    "timestamp": 1794699037.0,
+    "datetime_str": "2026-11-14 23:30:37",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "COP31 konutta yeşil dönüşümü hızlandıracak!",
+    "link": "https://www.turkiyegazetesi.com.tr/emlak/cop31-konutta-yesil-donusumu-hizlandiracak-1829375",
+    "timestamp": 1794698985.0,
+    "datetime_str": "2026-11-14 23:29:45",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -101,7 +885,7 @@
     "link": "https://www.cnnturk.com/magazin/uc-kiz-kardesin-yildizydi-almila-adadan-yeni-hamilelik-pozlari-3493245",
     "timestamp": 1794698871.0,
     "datetime_str": "2026-11-14 23:27:51",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -109,7 +893,7 @@
     "link": "https://www.turkiyegazetesi.com.tr/ekonomi/kahve-dunyada-ucuzluyor-turkiyede-pahalaniyor-1829383",
     "timestamp": 1794698451.0,
     "datetime_str": "2026-11-14 23:20:51",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -117,7 +901,7 @@
     "link": "https://www.cnnturk.com/video/ekonomi/asgari-ucrette-3-farkli-zam-senaryosu-iste-masadaki-rakamlar-3493237",
     "timestamp": 1794698374.0,
     "datetime_str": "2026-11-14 23:19:34",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -125,7 +909,7 @@
     "link": "https://www.cnnturk.com/turkiye/sanal-medya-onlari-konustu-dev-dalgalarin-yere-dusurdugu-gencler-konustu-biraz-abarttik-3493241",
     "timestamp": 1794698337.0,
     "datetime_str": "2026-11-14 23:18:57",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -133,7 +917,7 @@
     "link": "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dorduncu-eleme-adayi-kim-oldu-14-kasim-2026-masterchef-te-dokunulmazlik-oyununu-kim-kazandi-2556228",
     "timestamp": 1794698220.0,
     "datetime_str": "2026-11-14 23:17:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -141,7 +925,7 @@
     "link": "https://www.turkiyegazetesi.com.tr/ekonomi/ihracat-ilk-yarida-38-milyar-dolari-asti-ambalaj-ay-yildizlari-odulleri-sahiplerini-b-1829382",
     "timestamp": 1794697805.0,
     "datetime_str": "2026-11-14 23:10:05",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -149,7 +933,7 @@
     "link": "https://www.turkiyegazetesi.com.tr/teknoloji/yapay-zeka-yolda-birakti-60-bin-calisana-gonullu-ayrilma-paketi-sunan-microsoft-ilk-k-1829356",
     "timestamp": 1794697739.0,
     "datetime_str": "2026-11-14 23:08:59",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -157,7 +941,7 @@
     "link": "https://www.turkiyegazetesi.com.tr/spor/neden-olmasin-daha-once-dunya-sampiyonu-apoletli-fransayi-yenmistik-1829387",
     "timestamp": 1794697543.0,
     "datetime_str": "2026-11-14 23:05:43",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -165,87 +949,15 @@
     "link": "https://www.turkiyegazetesi.com.tr/ekonomi/alisveriste-temkinliyiz-indirim-aldatmacasina-karsi-fiyatlari-daha-cok-kiyasliyoruz-1829381",
     "timestamp": 1794697536.0,
     "datetime_str": "2026-11-14 23:05:36",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
-    "title": "YENİ KARİYER DALGASI",
+    "title": "Tecrübesiz genç yerine deneyimli emekli",
     "link": "https://www.turkiyegazetesi.com.tr/ekonomi/sayilari-dort-yilda-iki-katini-asti-tecrubesiz-genc-yerine-deneyimli-emekli-1829378",
     "timestamp": 1794697230.0,
     "datetime_str": "2026-11-14 23:00:30",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "NTV",
-    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Kasım 2026",
-    "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-kasim-2026-1750900",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "\"Doğacak yavrumuz için elimizden ne gelirse yapalım Bey’im.\"",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/ragip-karadayi/dogacak-yavrumuz-icin-elimizden-ne-gelirse-yapalim-beyim-1829366",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "Şükürden sabra seyahat",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/yetenekli-kalemler/sukurden-sabra-seyahat-1829367",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "Kırk birinci durak",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/unal-bolat/kirk-birinci-durak-1829370",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "Dördüncü kat gökteki arslan!",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/abdullatif-uyan/dorduncu-kat-gokteki-arslan-1829372",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "\"Hocamız bu sene hacca gitmedi ki!\"",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/vehbi-tulek/hocamiz-bu-sene-hacca-gitmedi-ki-1829373",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "YENİ PARTİ'NİN İLK KURULTAYI",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/nur-tugba-aktay/tabelada-yeni-salonda-eski-hikaye-yeni-partinin-ilk-kurultayi-1829368",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "Her kaptan, içindeki sızar!",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/osman-unlu/her-kaptan-icindeki-sizar-1829374",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "Sertlikten, terslikten, tenkit ve kızmaktan sakınmalıdır!",
-    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/salim-koklu/sertlikten-terslikten-tenkit-ve-kizmaktan-sakinmalidir-1829376",
-    "timestamp": 1794697200.0,
-    "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -253,7 +965,71 @@
     "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/omer-faruk-bingol/faiz-tahminleri-1829362",
     "timestamp": 1794697200.0,
     "datetime_str": "2026-11-14 23:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Sertlikten, terslikten, tenkit ve kızmaktan sakınmalıdır!",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/salim-koklu/sertlikten-terslikten-tenkit-ve-kizmaktan-sakinmalidir-1829376",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Her kaptan, içindeki sızar!",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/osman-unlu/her-kaptan-icindeki-sizar-1829374",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "YENİ PARTİ'NİN İLK KURULTAYI",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/nur-tugba-aktay/tabelada-yeni-salonda-eski-hikaye-yeni-partinin-ilk-kurultayi-1829368",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "\"Hocamız bu sene hacca gitmedi ki!\"",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/vehbi-tulek/hocamiz-bu-sene-hacca-gitmedi-ki-1829373",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Dördüncü kat gökteki arslan!",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/abdullatif-uyan/dorduncu-kat-gokteki-arslan-1829372",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "\"Doğacak yavrumuz için elimizden ne gelirse yapalım Bey’im.\"",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/ragip-karadayi/dogacak-yavrumuz-icin-elimizden-ne-gelirse-yapalim-beyim-1829366",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Kırk birinci durak",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/unal-bolat/kirk-birinci-durak-1829370",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Türkiye Gazetesi",
+    "title": "Şükürden sabra seyahat",
+    "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/yetenekli-kalemler/sukurden-sabra-seyahat-1829367",
+    "timestamp": 1794697200.0,
+    "datetime_str": "2026-11-14 23:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -261,7 +1037,15 @@
     "link": "https://www.odatv.com/guncel/ticaret-bakanligindan-falcilara-yasak-120171252",
     "timestamp": 1794697076.0,
     "datetime_str": "2026-11-14 22:57:56",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Amedspor, ulusal ve yerel basını Diyarbakır’da buluşturdu: Ön yargısız ve adil bir bakış istiyoruz",
+    "link": "https://www.evrensel.net/haber/6009544/amedspor-ulusal-ve-yerel-basini-diyarbakir-da-bulusturdu-on-yargisiz-ve-adil-bir-bakis-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794696960.0,
+    "datetime_str": "2026-11-14 22:56:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Milliyet",
@@ -269,7 +1053,7 @@
     "link": "https://www.milliyet.com.tr/dunya/israil-basini-iranin-trumpi-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti-7700920",
     "timestamp": 1794696807.0,
     "datetime_str": "2026-11-14 22:53:27",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -277,7 +1061,7 @@
     "link": "https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-yardimcisi-yilmaz-fonlarin-tasfiye-sureci-hizla-ilerliyor-3493229",
     "timestamp": 1794696691.0,
     "datetime_str": "2026-11-14 22:51:31",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -285,7 +1069,7 @@
     "link": "https://www.aksam.com.tr/spor/fransa-turkiye-resmi-mac-yemegi-gerceklestirildi/haber-1714701",
     "timestamp": 1794696540.0,
     "datetime_str": "2026-11-14 22:49:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -293,7 +1077,7 @@
     "link": "https://www.aksam.com.tr/spor/marco-asensioya-ispanyol-kancasi/haber-1714700",
     "timestamp": 1794696300.0,
     "datetime_str": "2026-11-14 22:45:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -301,7 +1085,7 @@
     "link": "https://www.aksam.com.tr/spor/kislyaka-istanbul-kusatmasi/haber-1714699",
     "timestamp": 1794696240.0,
     "datetime_str": "2026-11-14 22:44:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -309,7 +1093,7 @@
     "link": "https://www.karar.com/guncel-haberler/ticaret-bakanligindan-fal-medyum-ve-buyu-reklamlarina-yasak-sosyal-2084171",
     "timestamp": 1794695880.0,
     "datetime_str": "2026-11-14 22:38:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -317,7 +1101,7 @@
     "link": "https://www.aksam.com.tr/guncel/irkcilik-kreste-basliyor/haber-1714698",
     "timestamp": 1794695820.0,
     "datetime_str": "2026-11-14 22:37:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -325,7 +1109,7 @@
     "link": "https://www.aksam.com.tr/spor/uluslar-liginde-5-hafta-tamamlandi-iste-gunun-sonuclari/haber-1714697",
     "timestamp": 1794695820.0,
     "datetime_str": "2026-11-14 22:37:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -333,7 +1117,7 @@
     "link": "https://www.aksam.com.tr/spor/sane-15-mactir-kayip/haber-1714696",
     "timestamp": 1794695760.0,
     "datetime_str": "2026-11-14 22:36:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -341,7 +1125,7 @@
     "link": "https://www.haberturk.com/yasam/ruyada-armut-yemek-anlami-nedir-ruyada-yesil-sulu-tatli-armut-yemenin-yorumu-3927434",
     "timestamp": 1794695676.0,
     "datetime_str": "2026-11-14 22:34:36",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -349,7 +1133,7 @@
     "link": "https://www.aksam.com.tr/guncel/izmirde-35-duzensiz-gocmen-kurtarildi/haber-1714695",
     "timestamp": 1794695640.0,
     "datetime_str": "2026-11-14 22:34:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -357,7 +1141,7 @@
     "link": "https://www.odatv.com/guncel/istanbul-havalimaninda-13-kilo-uyusturucu-120171251",
     "timestamp": 1794695636.0,
     "datetime_str": "2026-11-14 22:33:56",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -365,7 +1149,7 @@
     "link": "https://www.aksam.com.tr/dunya/trumpa-suikast-plani-iddiasi-abdli-bakanlar-evlerinden-cikarildi/haber-1714694",
     "timestamp": 1794695460.0,
     "datetime_str": "2026-11-14 22:31:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -373,7 +1157,7 @@
     "link": "https://www.odatv.com/guncel/iki-vakif-kapandi-resmi-gazetede-yayimlandi-120171250",
     "timestamp": 1794695280.0,
     "datetime_str": "2026-11-14 22:28:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -381,7 +1165,7 @@
     "link": "https://www.aksam.com.tr/spor/bizim-cocuklarin-son-sansi/haber-1714693",
     "timestamp": 1794695100.0,
     "datetime_str": "2026-11-14 22:25:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Hürriyet",
@@ -389,7 +1173,7 @@
     "link": "https://www.hurriyet.com.tr/gundem/ankarada-silahli-bicakli-kavga-1i-agir-11-yarali-43378726",
     "timestamp": 1794694999.0,
     "datetime_str": "2026-11-14 22:23:19",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -397,7 +1181,7 @@
     "link": "https://www.odatv.com/kultur-sanat/cop31de-iklim-filmleri-yaristi-120171249",
     "timestamp": 1794694872.0,
     "datetime_str": "2026-11-14 22:21:12",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -405,7 +1189,7 @@
     "link": "https://www.karar.com/guncel-haberler/direksiyon-basina-milyonlarca-arac-sahibi-acele-etsin-bugun-resmen-2084170",
     "timestamp": 1794694800.0,
     "datetime_str": "2026-11-14 22:20:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -413,7 +1197,7 @@
     "link": "https://www.aksam.com.tr/spor/portekizden-agir-yenilgi-danimarka-karsisinda-yikildilar/haber-1714692",
     "timestamp": 1794694320.0,
     "datetime_str": "2026-11-14 22:12:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -421,7 +1205,7 @@
     "link": "https://www.sozcu.com.tr/emeklileri-umutlandiran-haber-cumhurbaskanligindan-geldi-p381403",
     "timestamp": 1794694205.0,
     "datetime_str": "2026-11-14 22:10:05",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -429,7 +1213,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/masterchef-eleme-adayi-kim-oldu-14-kasim-masterchef-turkiye-dokunulmazlik-oyununu-kim-kazandi-3927425",
     "timestamp": 1794694097.0,
     "datetime_str": "2026-11-14 22:08:17",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -437,7 +1221,7 @@
     "link": "https://www.sozcu.com.tr/faciaya-ramak-kaldi-yol-coktu-6-metrelik-cukur-olustu-p381400",
     "timestamp": 1794694067.0,
     "datetime_str": "2026-11-14 22:07:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -445,7 +1229,7 @@
     "link": "https://www.aksam.com.tr/spor/macaristandan-gurcistan-karsisinda-2-gollu-zafer/haber-1714691",
     "timestamp": 1794694020.0,
     "datetime_str": "2026-11-14 22:07:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -453,7 +1237,7 @@
     "link": "https://www.odatv.com/guncel/mamakta-feci-kavga-cok-sayida-yarali-var-120171248",
     "timestamp": 1794693877.0,
     "datetime_str": "2026-11-14 22:04:37",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -461,7 +1245,7 @@
     "link": "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
     "timestamp": 1794693823.0,
     "datetime_str": "2026-11-14 22:03:43",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -469,7 +1253,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/kis-lasti-gi-uygulamasi-tari-hleri-2026-2027-kis-lastigi-uygulamasi-ne-zaman-kis-lastigi-takmamanin-cezasi-ne-kadar-ve-hangi-araclara-zorunlu-3927433",
     "timestamp": 1794693697.0,
     "datetime_str": "2026-11-14 22:01:37",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -477,7 +1261,7 @@
     "link": "https://www.haberturk.com/dunya/fransa-da-gosteriler-suruyor-3927432",
     "timestamp": 1794693635.0,
     "datetime_str": "2026-11-14 22:00:35",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -485,7 +1269,7 @@
     "link": "https://www.karar.com/guncel-haberler/ankarada-iki-aile-arasinda-silahli-ve-bicakli-kavga-1i-agir-11-yarali-2084169",
     "timestamp": 1794693623.0,
     "datetime_str": "2026-11-14 22:00:23",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -493,7 +1277,7 @@
     "link": "https://www.aksam.com.tr/guncel/sanliurfa-otomobil-ile-kepce-carpisti-kari-koca-hayatini-kaybetti-2-kisi-yaralandi/haber-1714690",
     "timestamp": 1794693480.0,
     "datetime_str": "2026-11-14 21:58:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -501,7 +1285,7 @@
     "link": "https://www.aksam.com.tr/spor/savunmada-kalacagiz/haber-1714689",
     "timestamp": 1794693420.0,
     "datetime_str": "2026-11-14 21:57:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -509,7 +1293,7 @@
     "link": "https://www.aksam.com.tr/dunya/abd-disisleri-bakani-rubionun-sozleri-ortaligi-karistirdi-irandan-sert-yanit-halkimizi-ac-/haber-1714688",
     "timestamp": 1794693360.0,
     "datetime_str": "2026-11-14 21:56:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -517,15 +1301,7 @@
     "link": "https://www.cnnturk.com/dunya/abdde-havacilik-sistemini-kilitleyen-ariza-ucuslar-ne-zaman-normale-donecek-3493232",
     "timestamp": 1794693345.0,
     "datetime_str": "2026-11-14 21:55:45",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Binbaşı Kulaksız saldırısının firari şüphelisi 11 yıl sonra yakalandı",
-    "link": "https://www.sozcu.com.tr/binbasi-kulaksiz-saldirisinin-firari-suphelisi-11-yil-sonra-yakalandi-p381344",
-    "timestamp": 1794693296.0,
-    "datetime_str": "2026-11-14 21:54:56",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -533,7 +1309,7 @@
     "link": "https://www.karar.com/guncel-haberler/15-kasim-pazar-ankarada-bugun-hangi-yollar-kapali-anadolu-meydani-ve-2084168",
     "timestamp": 1794693199.0,
     "datetime_str": "2026-11-14 21:53:19",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -541,7 +1317,7 @@
     "link": "https://www.aksam.com.tr/spor/israile-sans-tanimadik/haber-1714687",
     "timestamp": 1794693120.0,
     "datetime_str": "2026-11-14 21:52:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -549,7 +1325,7 @@
     "link": "https://www.turkiyegazetesi.com.tr/dunya/yuzlerce-market-hedef-olmustu-fransa-irani-sucladi-tahran-oklari-israile-cevirdi-1829388",
     "timestamp": 1794693070.0,
     "datetime_str": "2026-11-14 21:51:10",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -557,7 +1333,7 @@
     "link": "https://www.aksam.com.tr/spor/norvecten-galler-karsisinda-net-galibiyet/haber-1714686",
     "timestamp": 1794693000.0,
     "datetime_str": "2026-11-14 21:50:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -565,7 +1341,7 @@
     "link": "https://www.yenisafak.com/gundem/nigdede-tir-otomobil-ve-suv-carpisti-1-yarali-4872512",
     "timestamp": 1794692943.0,
     "datetime_str": "2026-11-14 21:49:03",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -573,7 +1349,7 @@
     "link": "https://www.haberturk.com/spor/portekiz-danimarka-mac-sonucu-iste-portekiz-danimarka-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3927431",
     "timestamp": 1794692890.0,
     "datetime_str": "2026-11-14 21:48:10",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -581,7 +1357,7 @@
     "link": "https://www.cumhuriyet.com.tr/turkiye/mamak-ta-iki-grup-birbirine-girdi-1-i-agir-11-yarali-2556208",
     "timestamp": 1794692820.0,
     "datetime_str": "2026-11-14 21:47:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -589,7 +1365,7 @@
     "link": "https://www.aksam.com.tr/spor/cocukluk-hayalimi-yasiyorum/haber-1714685",
     "timestamp": 1794692760.0,
     "datetime_str": "2026-11-14 21:46:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -597,15 +1373,7 @@
     "link": "https://www.yenisafak.com/gundem/kepce-ile-otomobil-carpisti-anne-ve-baba-hayatini-kaybetti-iki-cocuk-yaralandi-4872510",
     "timestamp": 1794692739.0,
     "datetime_str": "2026-11-14 21:45:39",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Yarından itibaren zorunlu: Aracına taktırmayan 6 bin lira ceza ödeyecek",
-    "link": "https://www.sozcu.com.tr/yarindan-itibaren-zorunlu-aracina-taktirmayan-6-bin-lira-ceza-odeyecek-p381253",
-    "timestamp": 1794692715.0,
-    "datetime_str": "2026-11-14 21:45:15",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -613,7 +1381,7 @@
     "link": "https://www.yenisafak.com/gundem/izmirde-mahsur-kalan-35-duzensiz-gocmen-kurtarildi-4872508",
     "timestamp": 1794692676.0,
     "datetime_str": "2026-11-14 21:44:36",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -621,7 +1389,7 @@
     "link": "https://www.aydinlik.com.tr/haber/bordo-basketbol-karsiyakayi-83-75-maglup-etti-598967",
     "timestamp": 1794692641.0,
     "datetime_str": "2026-11-14 21:44:01",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -629,7 +1397,7 @@
     "link": "https://www.aksam.com.tr/spor/mohamed-salah-tahtin-tek-sahibi/haber-1714684",
     "timestamp": 1794692640.0,
     "datetime_str": "2026-11-14 21:44:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -637,7 +1405,7 @@
     "link": "https://www.sozcu.com.tr/portekiz-ronaldo-suz-ilk-macta-darmaduman-oldu-p381398",
     "timestamp": 1794692445.0,
     "datetime_str": "2026-11-14 21:40:45",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -645,7 +1413,7 @@
     "link": "https://www.yenisafak.com/gundem/istanbul-havalimaninda-konserve-kutularindan-kilolarca-uyusturucu-cikti-iki-gozalti-4872507",
     "timestamp": 1794692373.0,
     "datetime_str": "2026-11-14 21:39:33",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -653,7 +1421,7 @@
     "link": "https://www.cnnturk.com/ekonomi/cilgin-sayisal-loto-sonuclari-14-kasim-2026-cilgin-sayisal-loto-sonuclari-aciklandi-mi-saat-kacta-aciklanir-227-7-milyon-tl-buyuk-3493206",
     "timestamp": 1794692332.0,
     "datetime_str": "2026-11-14 21:38:52",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -661,7 +1429,7 @@
     "link": "https://www.odatv.com/spor/cristiano-ronaldoya-milli-takimdan-unutulmaz-veda-120171247",
     "timestamp": 1794692263.0,
     "datetime_str": "2026-11-14 21:37:43",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -669,7 +1437,7 @@
     "link": "https://www.yenisafak.com/galeri/ekonomi/kutahyanin-goncek-koyunde-120-ton-organik-kavun-hasadi-4872506",
     "timestamp": 1794692025.0,
     "datetime_str": "2026-11-14 21:33:45",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -677,7 +1445,39 @@
     "link": "https://www.yenisafak.com/dunya/netanyahunun-birlik-cagrisina-eisenkottan-ret-bu-numaralar-bana-sokmez-4872505",
     "timestamp": 1794691848.0,
     "datetime_str": "2026-11-14 21:30:48",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında kalabilirdim, patron kalıp için korktu",
+    "link": "https://www.evrensel.net/haber/6009507/habas-ardindan-konustugumuz-mesem-ogrencisi-kalibin-altinda-kalabilirdim-patron-kalip-icin-korktu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794691800.0,
+    "datetime_str": "2026-11-14 21:30:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Evrensel'in manşeti: Yaşamak için birleş!",
+    "link": "https://www.evrensel.net/haber/6009521/evrensel-in-manseti-yasamak-icin-birles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794691800.0,
+    "datetime_str": "2026-11-14 21:30:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Avrupa'da sendikalar ve genel grev tartışılıyor",
+    "link": "https://www.evrensel.net/haber/6009529/avrupa-da-sendikalar-ve-genel-grev-tartisiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794691800.0,
+    "datetime_str": "2026-11-14 21:30:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "HABAŞ Katliamı’nda yaşamını yitiren Kadir Kaan Özçelik’in kardeşi Şevval Özçelik:'Savaşalım ki bizden sonrakiler ölmesin",
+    "link": "https://www.evrensel.net/haber/6009531/habas-katliami-nda-yasamini-yitiren-kadir-kaan-ozcelik-in-kardesi-sevval-ozcelik-savasalim-ki-bizden-sonrakiler-olmesin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794691800.0,
+    "datetime_str": "2026-11-14 21:30:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -685,7 +1485,7 @@
     "link": "https://www.aydinlik.com.tr/haber/cop31de-filistinle-dayanisma-ve-kuresel-adalet-mesaji-598965",
     "timestamp": 1794691800.0,
     "datetime_str": "2026-11-14 21:30:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -693,7 +1493,7 @@
     "link": "https://www.haberturk.com/kultur-sanat/istanbul-modern-de-tir-tir-sali-3927416",
     "timestamp": 1794691639.0,
     "datetime_str": "2026-11-14 21:27:19",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -701,7 +1501,7 @@
     "link": "https://www.haberturk.com/kultur-sanat/monokrom-sergisi-acildi-3927417",
     "timestamp": 1794691599.0,
     "datetime_str": "2026-11-14 21:26:39",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -709,7 +1509,7 @@
     "link": "https://www.aksam.com.tr/spor/galatasaray-mct-technic-biotekno-korfez-baskete-karsi-kayip/haber-1714683",
     "timestamp": 1794691560.0,
     "datetime_str": "2026-11-14 21:26:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -717,7 +1517,7 @@
     "link": "https://www.haberturk.com/kultur-sanat/cop31de-iklim-teknoloji-ve-sanat-bulustu-3927415",
     "timestamp": 1794691554.0,
     "datetime_str": "2026-11-14 21:25:54",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Hürriyet Spor",
@@ -725,7 +1525,7 @@
     "link": "https://www.hurriyet.com.tr/sporarena/potanin-perileri-2de-2-yapti-43378705",
     "timestamp": 1794691400.0,
     "datetime_str": "2026-11-14 21:23:20",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -733,7 +1533,7 @@
     "link": "https://www.yenisafak.com/gundem/kastamonuda-cip-takla-atti-dort-kisi-yaralandi-4872504",
     "timestamp": 1794691371.0,
     "datetime_str": "2026-11-14 21:22:51",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Akşam",
@@ -741,7 +1541,15 @@
     "link": "https://www.aksam.com.tr/spor/mac-sonucu-bordo-bandirma-83-karsiyaka-75/haber-1714682",
     "timestamp": 1794691260.0,
     "datetime_str": "2026-11-14 21:21:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "AKP Türkiye'sinin işçi katliamları",
+    "link": "https://www.evrensel.net/haber/6009535/akp-turkiye-sinin-isci-katliamlari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794691200.0,
+    "datetime_str": "2026-11-14 21:20:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -749,7 +1557,7 @@
     "link": "https://www.cnnturk.com/video/magazin/daha-17de-leyla-gerceklerle-yuzlesiyor-ozetsiz-yeni-bolumde-heyecan-dorukta-yarin-20de-3493230",
     "timestamp": 1794691175.0,
     "datetime_str": "2026-11-14 21:19:35",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -757,7 +1565,7 @@
     "link": "https://www.sozcu.com.tr/iki-ulke-yeniden-karsi-karsiya-sinir-hattinda-patlama-sesleri-p381392",
     "timestamp": 1794691165.0,
     "datetime_str": "2026-11-14 21:19:25",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -765,7 +1573,15 @@
     "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyonlari-2026-kasim-denizbank-garanti-bbva-i-s-bankasi-en-yuksek-promosyon-hangi-bankada-ve-ne-kadar-promosyon-veriyor-3926893",
     "timestamp": 1794690992.0,
     "datetime_str": "2026-11-14 21:16:32",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Kamu emekçisi kadınlar bütçeden hakkını istiyor: Güvenli ve güvenceli çalışma talep ediyoruz",
+    "link": "https://www.evrensel.net/haber/6009522/kamu-emekcisi-kadinlar-butceden-hakkini-istiyor-guvenli-ve-guvenceli-calisma-talep-ediyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794690900.0,
+    "datetime_str": "2026-11-14 21:15:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -773,7 +1589,7 @@
     "link": "https://www.aydinlik.com.tr/haber/selami-yildiz-sultangazide-denetime-katildi-598964",
     "timestamp": 1794690900.0,
     "datetime_str": "2026-11-14 21:15:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -781,7 +1597,7 @@
     "link": "https://www.cumhuriyet.com.tr/turkiye/digel-tekstil-iscilerinin-664-gunluk-direnisi-kazanimla-sonuclandi-2556200",
     "timestamp": 1794690780.0,
     "datetime_str": "2026-11-14 21:13:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -789,7 +1605,7 @@
     "link": "https://www.yenisafak.com/gundem/kayseride-iki-grup-arasi-bicakli-kavga-iki-kisi-yaralandi-4872503",
     "timestamp": 1794690703.0,
     "datetime_str": "2026-11-14 21:11:43",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -797,7 +1613,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/sayisal-loto-sonuclari-ne-zaman-aciklanacak-14-kasim-2026-milli-piyango-online-cilgin-sayisal-loto-cekilis-sonuclari-bilet-sorgula-3927382",
     "timestamp": 1794690635.0,
     "datetime_str": "2026-11-14 21:10:35",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -805,7 +1621,31 @@
     "link": "https://www.haberturk.com/bilgi/foto/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-saglik-bakanligi-personel-alimi-basvurusu-nasil-yapilir-sartlari-nelerdir-3927400",
     "timestamp": 1794690613.0,
     "datetime_str": "2026-11-14 21:10:13",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler neden ölüyor?",
+    "link": "https://www.evrensel.net/haber/6009524/cin-celigi-gumruk-duvarlari-ve-habas-aliaga-da-isciler-neden-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794690600.0,
+    "datetime_str": "2026-11-14 21:10:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi cüce mi yedi çocuk mu?",
+    "link": "https://www.evrensel.net/haber/6009526/bir-masalin-madenlerde-calisan-cocuklara-uzanan-izleri-yedi-cuce-mi-yedi-cocuk-mu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794690600.0,
+    "datetime_str": "2026-11-14 21:10:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’nin yakınları:  Kardeşimi kendi işi olmayan bir yerde çalıştırıyorlardı",
+    "link": "https://www.evrensel.net/haber/6009530/habas-taki-is-cinayetinde-yasamini-yitiren-isci-ozcan-efe-nin-yakinlari-kardesimi-kendi-isi-olmayan-bir-yerde-calistiriyorlardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794690600.0,
+    "datetime_str": "2026-11-14 21:10:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -813,7 +1653,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/ata-aof-sinav-giris-belgesi-nasil-alinir-ata-aof-vize-ve-final-sinavlari-ne-zaman-3927405",
     "timestamp": 1794690596.0,
     "datetime_str": "2026-11-14 21:09:56",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -821,7 +1661,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/kyk-burs-ve-kredi-odeme-tari-hi-gsb-2026-2027-kyk-burs-ve-kredi-odemeleri-ne-zaman-yapilacak-toplu-odeme-olacak-mi-3927410",
     "timestamp": 1794690576.0,
     "datetime_str": "2026-11-14 21:09:36",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -829,7 +1669,7 @@
     "link": "https://www.sozcu.com.tr/ali-koc-tan-turkiye-hassasiyeti-sunucuyu-boyle-uyardi-p381345",
     "timestamp": 1794690574.0,
     "datetime_str": "2026-11-14 21:09:34",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -837,7 +1677,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/i-bb-burs-basvuru-sonuclari-aciklandi-mi-2026-2027-i-bb-genc-universiteli-burs-sonuclari-nasil-ve-nereden-ogrenilir-3927429",
     "timestamp": 1794690541.0,
     "datetime_str": "2026-11-14 21:09:01",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -845,7 +1685,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/auzef-sinav-sonuclari-ne-zaman-aciklanacak-2026-2027-guz-donemi-auzef-ara-sinav-sonuc-tarihi-belli-mi-auzef-vize-sonuclari-sorgulama-ekrani-3927335",
     "timestamp": 1794690483.0,
     "datetime_str": "2026-11-14 21:08:03",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -853,7 +1693,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/vgm-burs-sonuclari-sorgulama-ekrani-2026-2027-vgm-yuksekogrenim-lisans-on-lisans-burs-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-3927314",
     "timestamp": 1794690444.0,
     "datetime_str": "2026-11-14 21:07:24",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -861,7 +1701,7 @@
     "link": "https://www.haberturk.com/bilgi/foto/uc-aylar-takvi-mi-2026-2027-uc-aylar-ne-zaman-basliyor-recep-saban-ramazan-ayi-ilk-oruc-ve-kandil-tarihleri-belli-oldu-3926778",
     "timestamp": 1794690385.0,
     "datetime_str": "2026-11-14 21:06:25",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -869,7 +1709,7 @@
     "link": "https://www.cnnturk.com/video/turkiye/demiroren-medya-lisesi-iklim-zirvesinde-milli-egitim-bakani-tekinden-cop31-standina-ziyaret-3493221",
     "timestamp": 1794690381.0,
     "datetime_str": "2026-11-14 21:06:21",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -877,7 +1717,7 @@
     "link": "https://www.yenisafak.com/gundem/iki-motosiklet-kafa-kafaya-carpisti-suruculer-yola-savruldu-4872502",
     "timestamp": 1794690355.0,
     "datetime_str": "2026-11-14 21:05:55",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -885,7 +1725,31 @@
     "link": "https://www.haberturk.com/bilgi/foto/14-kasim-2026-i-ski-baraj-doluluk-orani-omerli-terkos-alibey-buyukcekmece-i-stanbul-baraj-doluluk-orani-yuzde-kac-i-stanbul-barajlarinda-son-durum-3927283",
     "timestamp": 1794690307.0,
     "datetime_str": "2026-11-14 21:05:07",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Nedime Erdoğan cezaevinden sorularımızı yanıtladı: 'Odağı asıl sorunlardan uzaklaştırıyorlar'",
+    "link": "https://www.evrensel.net/haber/6009515/nedime-erdogan-cezaevinden-sorularimizi-yanitladi-odagi-asil-sorunlardan-uzaklastiriyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794690300.0,
+    "datetime_str": "2026-11-14 21:05:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde, aynı korkunun içinde yaşamak",
+    "link": "https://www.evrensel.net/haber/6009516/bir-baskadir-2-sezonuyla-yayinda-kutuplasmanin-otesinde-ayni-korkunun-icinde-yasamak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794690300.0,
+    "datetime_str": "2026-11-14 21:05:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Fon vurgunu ekonomi bürokrasisinde: Onlarca isim görevden el çektirildi, gözaltına alındı veya tutuklandı",
+    "link": "https://www.evrensel.net/haber/6009143/fon-vurgunu-ekonomi-burokrasisinde-onlarca-isim-gorevden-el-cektirildi-gozaltina-alindi-veya-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794690300.0,
+    "datetime_str": "2026-11-14 21:05:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -893,15 +1757,7 @@
     "link": "https://www.karar.com/spor-haberleri/messiden-kenan-yildiza-unutulmaz-hediye-2084167",
     "timestamp": 1794690248.0,
     "datetime_str": "2026-11-14 21:04:08",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Ankara’da bugün trafiğe çıkacaklar dikkat: Çok sayıda yol kapatılacak",
-    "link": "https://www.sozcu.com.tr/ankara-da-yarin-trafige-cikacaklar-dikkat-cok-sayida-yol-kapatilacak-p381375",
-    "timestamp": 1794690223.0,
-    "datetime_str": "2026-11-14 21:03:43",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -909,7 +1765,7 @@
     "link": "https://www.aydinlik.com.tr/haber/fal-medyum-ve-buyu-reklamlarina-durdurma-karari-598966",
     "timestamp": 1794690182.0,
     "datetime_str": "2026-11-14 21:03:02",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -917,7 +1773,7 @@
     "link": "https://www.aydinlik.com.tr/haber/fenerbahce-galatasaray-derbisini-3-2-kazandi-598963",
     "timestamp": 1794690157.0,
     "datetime_str": "2026-11-14 21:02:37",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -925,7 +1781,7 @@
     "link": "https://www.sozcu.com.tr/reklam-kurulundan-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-p381388",
     "timestamp": 1794690136.0,
     "datetime_str": "2026-11-14 21:02:16",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -933,7 +1789,7 @@
     "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/ist-cevre-sehircilik-ve-iklim-degisikligi-il-mudurlugu-avrupa-yakasi-milli-emlak-dairesi-baskanligi-2556163",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -941,7 +1797,7 @@
     "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bakirkoy-gayrimenkul-satis-icra-dairesi-2556164",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -949,7 +1805,7 @@
     "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/tcdd-haydarpasa-liman-isletmesi-mudurlugu-2556165",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -957,7 +1813,7 @@
     "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/kagithane-vergi-dairesi-mudurlugu-2556166",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -965,7 +1821,7 @@
     "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-sile-icra-dairesi-mudurlugu-2556167",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -973,7 +1829,7 @@
     "link": "https://www.karar.com/guncel-haberler/fonlar-hala-kazandiriyor-2084159",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -981,7 +1837,7 @@
     "link": "https://www.karar.com/kultur-sanat-haberleri/asik-muslumun-27-destanlik-mirasi-sesli-kitap-oldu-2084161",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -989,7 +1845,7 @@
     "link": "https://www.karar.com/kultur-sanat-haberleri/bir-munevverin-notlarindan-anadolunun-kadim-bekcisine-2084162",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -997,7 +1853,7 @@
     "link": "https://www.karar.com/ekonomi-haberleri/100-otomobile-10-sarj-soketi-2084163",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1005,7 +1861,7 @@
     "link": "https://www.karar.com/gorusler/bir-milyon-dolarlik-ahlaki-soru-2084164",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1013,7 +1869,7 @@
     "link": "https://www.karar.com/yazarlar/gamze-demirel/kisin-en-sevilen-meyvelerinden-biri-trabzon-hurmasi-1609853",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1021,7 +1877,7 @@
     "link": "https://www.karar.com/yazarlar/ibrahim-kahveci/tasfiye-fonu-sisirilen-hisseleri-taban-fiyattan-eski-1609854",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1029,7 +1885,7 @@
     "link": "https://www.karar.com/yazarlar/taneray1/bir-munevverin-notlarindan-anadolunun-kadim-bekcisine-1609855",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1037,7 +1893,7 @@
     "link": "https://www.karar.com/yazarlar/yusuf-ziya-comert/kafamiza-masaj-yaptirmayi-seviyoruz-1609856",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1045,7 +1901,7 @@
     "link": "https://www.karar.com/yazarlar/aynur-tas/cesaret-ve-sans-zirvede-16-22-kasim-haftasi-gokyuzu-rehberi-1609857",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1053,7 +1909,7 @@
     "link": "https://www.karar.com/yazarlar/kerime-yildiz/tarih-ruya-efsane-kibris-bizimdir-1609858",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1061,7 +1917,7 @@
     "link": "https://www.karar.com/yazarlar/mikdat-karaalioglu/cop-31in-basina-gelenler-1609859",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1069,7 +1925,7 @@
     "link": "https://www.karar.com/yazarlar/fehmi-koru/bir-de-basimiza-komplocular-cikti-1609860",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1077,7 +1933,7 @@
     "link": "https://www.karar.com/yazarlar/ahmet-tasgetiren/sistemi-sorgulamazsaniz-bu-kriz-biter-baskasi-gelir-1609861",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1085,7 +1941,7 @@
     "link": "https://www.karar.com/yazarlar/taha-akyol/islami-cevrelerin-tepkisi-1609862",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1093,7 +1949,7 @@
     "link": "https://www.karar.com/yazarlar/bekir-fuat/enver-pasanin-ruyasi-1609863",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1101,7 +1957,7 @@
     "link": "https://www.karar.com/yazarlar/iskender-oksuz/gelecek-calisiyor-1609864",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1109,7 +1965,7 @@
     "link": "https://www.aydinlik.com.tr/koseyazisi/yukselen-asyanin-iki-nobetcisi-dunyanin-cevre-sorununu-konustu-598929",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1117,7 +1973,7 @@
     "link": "https://www.aydinlik.com.tr/haber/ureticiler-zararda-fabrikalar-satista-598930",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1125,7 +1981,7 @@
     "link": "https://www.aydinlik.com.tr/haber/belediye-mahalle-mahkeme-koy-dedi-598931",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1133,7 +1989,7 @@
     "link": "https://www.aydinlik.com.tr/haber/turk-metalden-habas-faciasi-icin-tepki-hesap-sorana-kadar-susmayacagiz-598932",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1141,7 +1997,7 @@
     "link": "https://www.aydinlik.com.tr/haber/guvenlik-is-kongresinden-hukumete-cagri-kamuda-taseron-yarasi-kapanmali-598933",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1149,7 +2005,7 @@
     "link": "https://www.aydinlik.com.tr/haber/sahte-155-ihbar-hattiyla-dolandirdilar-598934",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1157,7 +2013,7 @@
     "link": "https://www.aydinlik.com.tr/koseyazisi/kobiler-calisarak-batiyoruz-598935",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1165,7 +2021,7 @@
     "link": "https://www.aydinlik.com.tr/koseyazisi/dunyanin-damarlari-4-dunyanin-bogazlari-598936",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1173,7 +2029,7 @@
     "link": "https://www.aydinlik.com.tr/haber/ingiliz-hayalinin-capi-ceperine-yetmiyor-598937",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1181,7 +2037,7 @@
     "link": "https://www.aydinlik.com.tr/haber/turk-muvafakati-atinayi-ayaga-kaldirdi-598938",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1189,7 +2045,7 @@
     "link": "https://www.aydinlik.com.tr/haber/rus-petrolunden-rekor-gelir-598939",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1197,7 +2053,7 @@
     "link": "https://www.aydinlik.com.tr/haber/dizi-ve-sinema-sektoru-kan-agliyor-asil-sebep-ekonomik-kriz-598940",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1205,7 +2061,7 @@
     "link": "https://www.aydinlik.com.tr/koseyazisi/dunyanin-sikintili-milyonerler-problemi-598941",
     "timestamp": 1794690060.0,
     "datetime_str": "2026-11-14 21:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Hürriyet",
@@ -1213,7 +2069,15 @@
     "link": "https://www.hurriyet.com.tr/resmi-ilanlar/gunesli-vergi-dairesi-mudurlugu-43378501",
     "timestamp": 1794690000.0,
     "datetime_str": "2026-11-14 21:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Medyascope",
+    "title": "Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’in Antalya gösterisi",
+    "link": "https://medyascope.tv/2026/11/15/sahne-liderlerin-fatura-halkin-cop31in-antalya-gosterisi/",
+    "timestamp": 1794690000.0,
+    "datetime_str": "2026-11-14 21:00:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -1221,7 +2085,7 @@
     "link": "https://www.cumhuriyet.com.tr/turkiye/fal-medyum-ve-buyu-reklamlarina-durdurma-karari-2556197",
     "timestamp": 1794689940.0,
     "datetime_str": "2026-11-14 20:59:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -1229,7 +2093,7 @@
     "link": "https://www.yenisafak.com/video/dunya/erhan-yildirimdan-abddeki-ucus-krizine-iliskin-dikkat-ceken-iddia-4872501",
     "timestamp": 1794689940.0,
     "datetime_str": "2026-11-14 20:59:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -1237,7 +2101,7 @@
     "link": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-41-bolum-izle-kanal-d-full-hd-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-41-bolum-izleme-ekrani-3493225",
     "timestamp": 1794689895.0,
     "datetime_str": "2026-11-14 20:58:15",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -1245,7 +2109,7 @@
     "link": "https://www.odatv.com/guncel/kayseride-bicakli-kavga-kanli-bitti-120171246",
     "timestamp": 1794689892.0,
     "datetime_str": "2026-11-14 20:58:12",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -1253,7 +2117,7 @@
     "link": "https://www.yenisafak.com/gundem/caminin-lojmani-alevlere-teslim-oldu-4872500",
     "timestamp": 1794689820.0,
     "datetime_str": "2026-11-14 20:57:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Milliyet",
@@ -1261,7 +2125,15 @@
     "link": "https://www.milliyet.com.tr/gundem/mutlu-gunleri-kabusa-dondu-gelin-arabasi-ile-hafif-ticari-arac-carpisti-7700855",
     "timestamp": 1794689816.0,
     "datetime_str": "2026-11-14 20:56:56",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Evrensel",
+    "title": "Netanyahu’nun birlik hükümeti çağrısına Eisenkot’tan “siyasi manevra” yanıtı",
+    "link": "https://www.evrensel.net/haber/6009543/netanyahu-nun-birlik-hukumeti-cagrisina-eisenkot-tan-siyasi-manevra-yaniti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "timestamp": 1794689760.0,
+    "datetime_str": "2026-11-14 20:56:00",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Karar",
@@ -1269,7 +2141,7 @@
     "link": "https://www.karar.com/dunya-haberleri/trump-ailesinin-korfezdeki-milyar-dolarlik-cikar-iliskilerine-2084166",
     "timestamp": 1794689760.0,
     "datetime_str": "2026-11-14 20:56:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -1277,7 +2149,15 @@
     "link": "https://www.sozcu.com.tr/portekizde-ronaldoya-veda-7-numara-surprizi-p381387",
     "timestamp": 1794689673.0,
     "datetime_str": "2026-11-14 20:54:33",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Diken",
+    "title": "İran Fransa'nın siber saldırı suçlamasını reddetti: 'İsrail algı peşinde'",
+    "link": "https://www.diken.com.tr/iran-fransanin-siber-saldiri-suclamasini-reddetti-israil-algi-pesinde/?utm_source=rss&utm_medium=rss&utm_campaign=iran-fransanin-siber-saldiri-suclamasini-reddetti-israil-algi-pesinde",
+    "timestamp": 1794689642.0,
+    "datetime_str": "2026-11-14 20:54:02",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -1285,7 +2165,15 @@
     "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-ve-eisenkot-karsi-karsiya-eisenkot-guzel-deneme-ama-bu-numaralar-bende-sokmez-2556196",
     "timestamp": 1794689580.0,
     "datetime_str": "2026-11-14 20:53:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Diken",
+    "title": "Portekiz'de konut krizi: En az 30 şehirde halk sokağa çıktı",
+    "link": "https://www.diken.com.tr/portekizde-konut-krizi-en-az-30-sehirde-halk-sokaga-cikti/?utm_source=rss&utm_medium=rss&utm_campaign=portekizde-konut-krizi-en-az-30-sehirde-halk-sokaga-cikti",
+    "timestamp": 1794689496.0,
+    "datetime_str": "2026-11-14 20:51:36",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -1293,7 +2181,7 @@
     "link": "https://www.cumhuriyet.com.tr/spor/frederic-dusart-tan-israil-galibiyeti-sonrasi-ozelestiri-oncelikle-hatalarimizi-duzeltmeliyiz-2556195",
     "timestamp": 1794689460.0,
     "datetime_str": "2026-11-14 20:51:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -1301,7 +2189,7 @@
     "link": "https://www.cnnturk.com/magazin/silili-komedyeni-hastanelik-eden-olay-seyircinin-saldirisina-ugradi-3493223",
     "timestamp": 1794689385.0,
     "datetime_str": "2026-11-14 20:49:45",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -1309,7 +2197,7 @@
     "link": "https://www.yenisafak.com/video/spor/kosova-israil-macinda-tribunlerden-protesto-israil-marsi-yuhalandi-4872498",
     "timestamp": 1794689358.0,
     "datetime_str": "2026-11-14 20:49:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -1317,7 +2205,7 @@
     "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-yarin-cok-sayida-cadde-ve-bulvar-trafige-kapatilacak-2556194",
     "timestamp": 1794689340.0,
     "datetime_str": "2026-11-14 20:49:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -1325,7 +2213,7 @@
     "link": "https://www.cnnturk.com/turkiye/akdenizde-bahar-bulusmasi-3493222",
     "timestamp": 1794689020.0,
     "datetime_str": "2026-11-14 20:43:40",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -1333,7 +2221,7 @@
     "link": "https://www.cumhuriyet.com.tr/turkiye/mansur-yavas-tan-ozgur-ozel-e-tebrik-mesaji-2556193",
     "timestamp": 1794688920.0,
     "datetime_str": "2026-11-14 20:42:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -1341,7 +2229,7 @@
     "link": "https://www.haberturk.com/ekonomi/ticaret-bakanligi-fal-ve-buyu-hizmetlerini-tanitan-reklamlari-durdurdu-3927428",
     "timestamp": 1794688743.0,
     "datetime_str": "2026-11-14 20:39:03",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "OdaTV",
@@ -1349,7 +2237,7 @@
     "link": "https://www.odatv.com/guncel/haci-yakisikli-10-kasim-sozleri-sonrasi-ozur-diledi-120171245",
     "timestamp": 1794688607.0,
     "datetime_str": "2026-11-14 20:36:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Habertürk",
@@ -1357,7 +2245,7 @@
     "link": "https://www.haberturk.com/spor/frederic-dusart-galip-gelmek-guzel-ama-ikinci-yaridaki-oyunla-kazanmak-iyi-bir-sey-degil-3927427",
     "timestamp": 1794688423.0,
     "datetime_str": "2026-11-14 20:33:43",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -1365,7 +2253,7 @@
     "link": "https://www.cnnturk.com/video/turkiye/iklim-krizinde-medyanin-rolu-buyuk-rtuk-baskani-danis-bizi-bekleyen-ciddi-riskler-var-aksiyon-alinmali-3493220",
     "timestamp": 1794688366.0,
     "datetime_str": "2026-11-14 20:32:46",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -1373,7 +2261,15 @@
     "link": "https://www.yenisafak.com/video/dunya/suriyenin-baskenti-samda-bombali-saldiri-2-kisi-hayatini-kaybetti-4872497",
     "timestamp": 1794688305.0,
     "datetime_str": "2026-11-14 20:31:45",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
+  },
+  {
+    "source": "Diken",
+    "title": "Fransa'da 100 binden fazla kişi sokakta",
+    "link": "https://www.diken.com.tr/fransada-100-binden-fazla-kisi-sokakta/?utm_source=rss&utm_medium=rss&utm_campaign=fransada-100-binden-fazla-kisi-sokakta",
+    "timestamp": 1794688271.0,
+    "datetime_str": "2026-11-14 20:31:11",
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "NTV",
@@ -1381,7 +2277,7 @@
     "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-kasim-2026-1750771",
     "timestamp": 1794688200.0,
     "datetime_str": "2026-11-14 20:30:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -1389,7 +2285,7 @@
     "link": "https://www.yenisafak.com/gundem/bakanlik-harekete-gecti-internetteki-fal-ve-buyu-reklamlarina-nester-4872496",
     "timestamp": 1794688200.0,
     "datetime_str": "2026-11-14 20:30:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1397,7 +2293,7 @@
     "link": "https://www.aydinlik.com.tr/haber/mustafa-ceceliden-dolandiricilik-uyarisi-ve-112-cagrisi-598961",
     "timestamp": 1794688200.0,
     "datetime_str": "2026-11-14 20:30:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -1405,15 +2301,7 @@
     "link": "https://www.sozcu.com.tr/mansur-yavastan-ozgur-ozel-paylasimi-p381382",
     "timestamp": 1794688179.0,
     "datetime_str": "2026-11-14 20:29:39",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Zelenskiy resti çekti, Trump’ın teklifini reddetti",
-    "link": "https://www.sozcu.com.tr/zelenskiy-resti-cekti-trump-in-teklifini-reddetti-p381381",
-    "timestamp": 1794688070.0,
-    "datetime_str": "2026-11-14 20:27:50",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Milliyet",
@@ -1421,7 +2309,7 @@
     "link": "https://www.milliyet.com.tr/gundem/fal-medyum-ve-buyu-reklamlarina-durdurma-karari-7700856",
     "timestamp": 1794687959.0,
     "datetime_str": "2026-11-14 20:25:59",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -1429,7 +2317,7 @@
     "link": "https://www.yenisafak.com/galeri/ekonomi/sahte-kolonya-nasil-anlasilir-35-yillik-usta-puf-noktalarini-acikladi-4872495",
     "timestamp": 1794687902.0,
     "datetime_str": "2026-11-14 20:25:02",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Türkiye Gazetesi",
@@ -1437,7 +2325,7 @@
     "link": "https://www.turkiyegazetesi.com.tr/dunya/netanyahu-yargilanmamak-icin-her-yolu-deniyor-simdi-de-muhalefet-liderine-yalvardi-1829371",
     "timestamp": 1794687645.0,
     "datetime_str": "2026-11-14 20:20:45",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Sözcü Spor",
@@ -1445,7 +2333,7 @@
     "link": "https://www.sozcu.com.tr/serdar-azizden-galatasaraylilari-kizdiran-sozler-p381377",
     "timestamp": 1794687375.0,
     "datetime_str": "2026-11-14 20:16:15",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1453,7 +2341,7 @@
     "link": "https://www.aydinlik.com.tr/haber/manisada-tip-1-diyabet-hastalarina-sensor-destegi-598960",
     "timestamp": 1794687300.0,
     "datetime_str": "2026-11-14 20:15:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -1461,7 +2349,7 @@
     "link": "https://www.cumhuriyet.com.tr/turkiye/akp-li-meclis-uyesi-partisine-davet-etmisti-baltaci-davamizin-pesindeyiz-devrimimize-sahip-cikiyoruz-2556192",
     "timestamp": 1794687060.0,
     "datetime_str": "2026-11-14 20:11:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1469,15 +2357,7 @@
     "link": "https://www.aydinlik.com.tr/haber/a-milli-kadin-basketbol-takimi-israili-devirdi-598962",
     "timestamp": 1794686978.0,
     "datetime_str": "2026-11-14 20:09:38",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Milliyet",
-    "title": "Karabük'te cami lojmanı alev alev yandı",
-    "link": "https://www.milliyet.com.tr/gundem/karabukte-cami-lojmani-alev-alev-yandi-7700849",
-    "timestamp": 1794686973.0,
-    "datetime_str": "2026-11-14 20:09:33",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "CNN Türk",
@@ -1485,7 +2365,7 @@
     "link": "https://www.cnnturk.com/turkiye/ak-partiden-cumhurbaskani-erdogan-paylasimi-milletine-adanmis-bir-omrun-hikayesi-3493219",
     "timestamp": 1794686825.0,
     "datetime_str": "2026-11-14 20:07:05",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Aydınlık",
@@ -1493,7 +2373,7 @@
     "link": "https://www.aydinlik.com.tr/haber/birecikte-otomobil-kepceye-carpti-cift-hayatini-kaybetti-598959",
     "timestamp": 1794686675.0,
     "datetime_str": "2026-11-14 20:04:35",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Yeni Şafak",
@@ -1501,7 +2381,7 @@
     "link": "https://www.yenisafak.com/gundem/baca-faciasinin-esiginden-donuldu-kapi-acilmayinca-yardim-istediler-4872494",
     "timestamp": 1794686639.0,
     "datetime_str": "2026-11-14 20:03:59",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Milliyet",
@@ -1509,7 +2389,7 @@
     "link": "https://www.milliyet.com.tr/dunya/fransada-polis-gostericilere-biber-gaziyla-mudahale-etti-7700852",
     "timestamp": 1794686582.0,
     "datetime_str": "2026-11-14 20:03:02",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   },
   {
     "source": "Cumhuriyet",
@@ -1517,886 +2397,6 @@
     "link": "https://www.cumhuriyet.com.tr/turkiye/portekiz-halki-konut-krizine-karsi-30-dan-fazla-sehirde-meydanlara-cikti-2556191",
     "timestamp": 1794686460.0,
     "datetime_str": "2026-11-14 20:01:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Cami lojmanı alevlere teslim oldu",
-    "link": "https://www.haberturk.com/gundem/karabuk-un-yenice-ilcesinde-cikan-yangin-tek-katli-cami-lojmanini-kullanilamaz-hale-getirdi-3927424",
-    "timestamp": 1794686457.0,
-    "datetime_str": "2026-11-14 20:00:57",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Apartmanın teras katında çıkan yangın bir saatte kontrol altına alındı",
-    "link": "https://www.yenisafak.com/galeri/gundem/apartmanin-teras-katinda-cikan-yangin-bir-saatte-kontrol-altina-alindi-4872493",
-    "timestamp": 1794686428.0,
-    "datetime_str": "2026-11-14 20:00:28",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Muş’ta panelvan minibüs takla attı: Ölü ve yaralılar var",
-    "link": "https://www.yenisafak.com/galeri/gundem/musta-panelvan-minibus-takla-atti-olu-ve-yaralilar-var-4872499",
-    "timestamp": 1794686400.0,
-    "datetime_str": "2026-11-14 20:00:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "İran'da işçi servisi devrildi: 5 ölü, 17 yaralı",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/iran-da-isci-servisi-devrildi-5-olu-17-yarali-2556190",
-    "timestamp": 1794686220.0,
-    "datetime_str": "2026-11-14 19:57:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Karar",
-    "title": "Sezai Karakoç’un efsane şiiri ilk kez bestelendi: ‘Mona Rosa’yı Melihat Gülses seslendirdi",
-    "link": "https://www.karar.com/kultur-sanat-haberleri/sezai-karakocun-efsane-siiri-ilk-kez-bestelendi-mona-rosayi-2084165",
-    "timestamp": 1794686220.0,
-    "datetime_str": "2026-11-14 19:57:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Potanın Perileri, İsrail'i devirdi!",
-    "link": "https://www.haberturk.com/spor/israil-67-turkiye-76-mac-sonucu-2027-avrupa-kadinlar-basketbol-sampiyonasi-elemeleri-3927422",
-    "timestamp": 1794686202.0,
-    "datetime_str": "2026-11-14 19:56:42",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Konya'da 17 yaşındaki genç bıçaklı kavgada ağır yaralandı",
-    "link": "https://www.yenisafak.com/gundem/konyada-bicakli-kavga-17-yasindaki-mkz-agir-yarali-4872492",
-    "timestamp": 1794686087.0,
-    "datetime_str": "2026-11-14 19:54:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Ali Koç'tan COP31'de sunucuya Türkiye uyarısı",
-    "link": "https://www.odatv.com/guncel/ali-koctan-cop31de-sunucuya-turkiye-uyarisi-120171244",
-    "timestamp": 1794686059.0,
-    "datetime_str": "2026-11-14 19:54:19",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "KRİTİK ZİRVE | Putin, Şi ve Trump ne zaman görüşecek? Kremlin duyurdu!",
-    "link": "https://www.cnnturk.com/dunya/kritik-zirve-putin-si-ve-trump-ne-zaman-gorusecek-kremlin-duyurdu-3493215",
-    "timestamp": 1794685694.0,
-    "datetime_str": "2026-11-14 19:48:14",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sabah",
-    "title": "Fransa'da protestolarda beşinci tur: Yüz binlerce kişi sokaklara döküldü! Polisten göstericilere sert müdahale",
-    "link": "https://www.sabah.com.tr/dunya/fransada-protestolarda-besinci-tur-yuz-binlerce-kisi-sokaklara-dokuldu-polisten-gostericilere-sert-mudahale-7701881",
-    "timestamp": 1794685596.0,
-    "datetime_str": "2026-11-14 19:46:36",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Düğün yolu kana bulandı",
-    "link": "https://www.odatv.com/guncel/dugun-yolu-kana-bulandi-120171243",
-    "timestamp": 1794685547.0,
-    "datetime_str": "2026-11-14 19:45:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "2027 Ramazan ayı ne zaman başlayacak? İlk oruç hangi gün?",
-    "link": "https://www.cumhuriyet.com.tr/yasam/2027-ramazan-ayi-ne-zaman-baslayacak-ilk-oruc-hangi-gun-2556189",
-    "timestamp": 1794685500.0,
-    "datetime_str": "2026-11-14 19:45:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "ABD'de uçuş krizi sürüyor",
-    "link": "https://www.haberturk.com/dunya/abd-de-hava-trafigindeki-iletisim-arizasi-binlerce-ucusu-olumsuz-etkiledi-3927423",
-    "timestamp": 1794685453.0,
-    "datetime_str": "2026-11-14 19:44:13",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "İsrail'i mağlup ettik... Potanın Perileri, Avrupa Şampiyonası Elemeleri'nde 2'de 2 yaptı",
-    "link": "https://www.cumhuriyet.com.tr/spor/israil-i-maglup-ettik-potanin-perileri-avrupa-sampiyonasi-elemeleri-nde-2-de-2-yapti-2556188",
-    "timestamp": 1794685380.0,
-    "datetime_str": "2026-11-14 19:43:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "İstanbul'da dron destekli asayiş uygulaması: Emniyet Müdürü Yıldız'dan suç örgütlerine net mesaj",
-    "link": "https://www.yenisafak.com/gundem/istanbulda-dron-destekli-asayis-uygulamasi-emniyet-muduru-yildizdan-suc-orgutlerine-net-mesaj-4872491",
-    "timestamp": 1794685361.0,
-    "datetime_str": "2026-11-14 19:42:41",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Potanın Perileri, İsrail'i devirdi: 2'de 2 yaptı",
-    "link": "https://www.sozcu.com.tr/potanin-perileri-israili-devirdi-2de-2-yapti-p381374",
-    "timestamp": 1794685348.0,
-    "datetime_str": "2026-11-14 19:42:28",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Macaristan, Gürcistan'ı iki golle geçti",
-    "link": "https://www.cumhuriyet.com.tr/spor/macaristan-gurcistan-i-iki-golle-gecti-2556187",
-    "timestamp": 1794685140.0,
-    "datetime_str": "2026-11-14 19:39:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Norveç, Galler karşısında 3 golle güldü",
-    "link": "https://www.cumhuriyet.com.tr/spor/norvec-galler-karsisinda-3-golle-guldu-2556186",
-    "timestamp": 1794684900.0,
-    "datetime_str": "2026-11-14 19:35:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Hürriyet Spor",
-    "title": "Fenerbahçe Medicana 3-2 Galatasaray Madeş Mobilya (Efeler Ligi)",
-    "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-medicana-3-2-galatasaray-mades-mobilya-efeler-ligi-43378659",
-    "timestamp": 1794684871.0,
-    "datetime_str": "2026-11-14 19:34:31",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "Mustafa Ceceli dolandırıcılığa karşı uyardı: 'DERHAL 112'Yİ ARAYIN'",
-    "link": "https://www.cnnturk.com/magazin/mustafa-ceceli-dolandiriciliga-karsi-uyardi-derhal-112yi-arayin-3493214",
-    "timestamp": 1794684605.0,
-    "datetime_str": "2026-11-14 19:30:05",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "Osman Aşkın Bak: Türkiye’de spor tesisleri devrimi yaşanıyor",
-    "link": "https://www.aydinlik.com.tr/haber/osman-askin-bak-turkiye-spor-tesisleri-devrimi-yasiyor-598956",
-    "timestamp": 1794684600.0,
-    "datetime_str": "2026-11-14 19:30:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Bilal Erdoğan Lübnan Türkmen köylerinde",
-    "link": "https://www.haberturk.com/dunya/bilal-erdogan-lubnan-daki-turkmenlerle-bulusarak-cumhurbaskani-erdogan-in-selamlarini-iletti-3927401",
-    "timestamp": 1794684588.0,
-    "datetime_str": "2026-11-14 19:29:48",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Gazeteci Can Uyguç hayatını kaybetti",
-    "link": "https://www.odatv.com/spor/gazeteci-can-uyguc-hayatini-kaybetti-can-uyguc-kimdir-120171242",
-    "timestamp": 1794684468.0,
-    "datetime_str": "2026-11-14 19:27:48",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "Fon soruşturmasında son durum! Cevdet Yılmaz açıkladı: \"Yaklaşık 161 milyar lira ödeme yapıldı\"",
-    "link": "https://www.aydinlik.com.tr/haber/fon-sorusturmasinda-son-durum-cevdet-yilmaz-acikladi-yaklasik-161-milyar-lira-odeme-yapildi-598958",
-    "timestamp": 1794684435.0,
-    "datetime_str": "2026-11-14 19:27:15",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "ABD'den vatandaşlarına Husi uyarısı",
-    "link": "https://www.haberturk.com/dunya/abd-suudi-arabistan-daki-vatandaslarini-artan-husi-saldirilarina-karsi-dikkatli-olmaya-cagirdi-3927421",
-    "timestamp": 1794684290.0,
-    "datetime_str": "2026-11-14 19:24:50",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "İran'da servis otobüsü devrildi, 5 kişi öldü, 17 kişi yaralandı",
-    "link": "https://www.aydinlik.com.tr/haber/iranda-servis-otobusu-devrildi-5-kisi-oldu-17-kisi-yaralandi-598957",
-    "timestamp": 1794684099.0,
-    "datetime_str": "2026-11-14 19:21:39",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "FRANSA -TÜRKİYE MAÇI NE ZAMAN, SAAT KAÇTA, HANGİ KANALDA? UEFA Uluslar Ligi’nde Son Maç! Milliler A Ligi’nde Nasıl Kalır?",
-    "link": "https://www.cnnturk.com/spor/futbol/fransa-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-liginde-son-mac-milliler-a-liginde-nasil-kalir-3493146",
-    "timestamp": 1794684082.0,
-    "datetime_str": "2026-11-14 19:21:22",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "14 KASIM 2026 MAÇ PROGRAMI: Bugün hangi maçlar var, saat kaçta ve hangi kanalda?",
-    "link": "https://www.cnnturk.com/spor/bugun-hangi-maclar-var-saat-kacta-hangi-kanalda-14-kasim-2026-gunun-futbol-basketbol-voleybol-programi-3493172",
-    "timestamp": 1794684069.0,
-    "datetime_str": "2026-11-14 19:21:09",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "BURSA DEPREM SON DAKİKA 14 KASIM | Deprem mi oldu, nerede, kaç büyüklüğünde? AFAD-Kandilli Rasathanesi son depremler!",
-    "link": "https://www.cnnturk.com/turkiye/bursa-deprem-son-dakika-14-kasim-deprem-mi-oldu-nerede-kac-buyuklugunde-afad-kandilli-rasathanesi-son-depremler-3493029",
-    "timestamp": 1794684041.0,
-    "datetime_str": "2026-11-14 19:20:41",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "CUMARTESİ GÜNÜ HANGİ DİZİLER VAR? 14 Kasım TV Yayın Akışı (Kanal D, Show TV, ATV, Star TV, TRT 1, TV8, NOW TV) Bu akşam televizyonda ne var?",
-    "link": "https://www.cnnturk.com/magazin/dizi/cumartesi-gunu-hangi-diziler-var-14-kasim-tv-yayin-akisi-kanal-d-show-tv-atv-star-tv-trt-1-tv8-now-tv-bu-aksam-televizyonda-ne-var-3493179",
-    "timestamp": 1794684025.0,
-    "datetime_str": "2026-11-14 19:20:25",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Tarlalardan rant fışkıracak: Kanal İstanbul’da 15 mahallelik imar hamlesi",
-    "link": "https://www.sozcu.com.tr/tarlalardan-rant-fiskiracak-kanal-istanbul-da-15-mahallelik-imar-hamlesi-p381373",
-    "timestamp": 1794683995.0,
-    "datetime_str": "2026-11-14 19:19:55",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "Sergen Yalçın'dan Fransa maçı için sürpriz karar",
-    "link": "https://www.turkiyegazetesi.com.tr/spor/sergen-yalcindan-fransa-maci-icin-surpriz-karar-5-6-degisiklik-olabilir-1829357",
-    "timestamp": 1794683927.0,
-    "datetime_str": "2026-11-14 19:18:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Milliyet",
-    "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan Beyrut'ta Lübnan Başbakanı Selam ile görüştü",
-    "link": "https://www.milliyet.com.tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrutta-lubnan-basbakani-selam-ile-gorustu-7700845",
-    "timestamp": 1794683908.0,
-    "datetime_str": "2026-11-14 19:18:28",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "YENİ Parti'nin 1. Olağan Kurultayı... Dilek İmamoğlu: ‘Umuttan vazgeçmeyen herkes için yeni bir başlangıç olsun’",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-nin-1-olagan-kurultayi-dilek-imamoglu-umuttan-vazgecmeyen-herkes-icin-yeni-bir-baslangic-olsun-2556185",
-    "timestamp": 1794683880.0,
-    "datetime_str": "2026-11-14 19:18:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "ABD'de uçuş krizi sürüyor: Binlerce sefer iptal edildi, normale dönüş için tarih verildi",
-    "link": "https://www.yenisafak.com/dunya/abdde-ucus-krizi-suruyor-binlerce-sefer-iptal-edildi-normale-donus-icin-tarih-verildi-4872490",
-    "timestamp": 1794683871.0,
-    "datetime_str": "2026-11-14 19:17:51",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "Samed Ağırbaş, Sıfır Atık Nesli hareketini COP31'de başlattı",
-    "link": "https://www.aydinlik.com.tr/haber/sifir-atik-nesli-hareketi-193-ulkeye-yayilmayi-hedefliyor-598955",
-    "timestamp": 1794683700.0,
-    "datetime_str": "2026-11-14 19:15:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Manşet Haber TV’nin sosyal medya hesaplarına erişim engeli getirildi",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/manset-haber-tv-nin-sosyal-medya-hesaplarina-erisim-engeli-getirildi-2556184",
-    "timestamp": 1794683640.0,
-    "datetime_str": "2026-11-14 19:14:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "\"Türkiye bize zorluk çıkaracak\"",
-    "link": "https://www.haberturk.com/spor/zinedine-zidane-turkiye-yarin-bize-zorluk-cikaracak-3927419",
-    "timestamp": 1794683619.0,
-    "datetime_str": "2026-11-14 19:13:39",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "İstifa eden başkanların siyasi rotası ne olacak? AK Parti'ye geçecekler mi?",
-    "link": "https://www.cnnturk.com/video/turkiye/istifa-eden-baskanlarin-siyasi-rotasi-ne-olacak-ak-partiye-gececekler-mi-3493213",
-    "timestamp": 1794683549.0,
-    "datetime_str": "2026-11-14 19:12:29",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Galatasaray karşısında 2-0'dan döndü: File derbisinde kazanan Fenerbahçe",
-    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-karsisinda-2-0-dan-dondu-file-derbisinde-kazanan-fenerbahce-2556183",
-    "timestamp": 1794683520.0,
-    "datetime_str": "2026-11-14 19:12:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Milliyet",
-    "title": "İstanbul Emniyet Müdürü Yıldız Sultangazi'deki asayiş uygulamasını denetledi",
-    "link": "https://www.milliyet.com.tr/gundem/istanbul-emniyet-muduru-yildiz-sultangazideki-asayis-uygulamasini-denetledi-7700840",
-    "timestamp": 1794683514.0,
-    "datetime_str": "2026-11-14 19:11:54",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Derbide F.Bahçe'den tarihi geri dönüş!",
-    "link": "https://www.haberturk.com/spor/galatasaray-mades-mobilya-2-fenerbahce-medicana-3-mac-sonucu-voleybol-efeler-ligi-3927420",
-    "timestamp": 1794683421.0,
-    "datetime_str": "2026-11-14 19:10:21",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Kepçeye çarpan otomobil hurdaya döndü: Anne ve baba öldü, 2 çocuk yaralandı",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kepceye-carpan-otomobil-hurdaya-dondu-anne-ve-baba-oldu-2-cocuk-yaralandi-2556182",
-    "timestamp": 1794683400.0,
-    "datetime_str": "2026-11-14 19:10:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Hürriyet",
-    "title": "Zinedine Zidane'dan Mbappe yanıtı: Türkiye maçında oynayacak mı?",
-    "link": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-mbappe-yaniti-turkiye-macinda-oynayacak-mi-43378649",
-    "timestamp": 1794683237.0,
-    "datetime_str": "2026-11-14 19:07:17",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Beş setlik derbide Fenerbahçe galibiyete uzandı",
-    "link": "https://www.sozcu.com.tr/bes-setlik-derbide-fenerbahce-galibiyete-uzandi-p381370",
-    "timestamp": 1794683153.0,
-    "datetime_str": "2026-11-14 19:05:53",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "ELEKTRİKLİ YOLCU UÇAĞI!",
-    "link": "https://www.turkiyegazetesi.com.tr/dunya/cinden-elektrikli-yolcu-ucagi-19-kisi-tasiyor-400-kilometre-gidiyor-1829355",
-    "timestamp": 1794683099.0,
-    "datetime_str": "2026-11-14 19:04:59",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "İzmir merkezli uyuşturucu operasyonunda 16 şüpheli tutuklandı",
-    "link": "https://www.aydinlik.com.tr/haber/izmir-merkezli-uyusturucu-operasyonunda-16-tutuklama-598954",
-    "timestamp": 1794683096.0,
-    "datetime_str": "2026-11-14 19:04:56",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Karar",
-    "title": "Fon vurgununa İsmailağa vaizinden sert tepki: \"Faiz batırır diye yetişenler şimdi milletin malını götürüyor\"",
-    "link": "https://www.karar.com/guncel-haberler/fon-vurgununa-ismailaga-vaizinden-sert-tepki-faiz-batirir-diye-2084160",
-    "timestamp": 1794683029.0,
-    "datetime_str": "2026-11-14 19:03:49",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Fransa'da beşinci dalga: 106 bin kişi sokakta",
-    "link": "https://www.odatv.com/dunya/fransada-besinci-dalga-106-bin-kisi-sokakta-120171241",
-    "timestamp": 1794682607.0,
-    "datetime_str": "2026-11-14 18:56:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "Gelin ve damadın en mutlu günü kabusa döndü!",
-    "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/gelin-ve-damadin-en-mutlu-gunu-kabusa-dondu-dugune-giderken-kaza-yaptilar-1829354",
-    "timestamp": 1794682606.0,
-    "datetime_str": "2026-11-14 18:56:46",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "2026 KPSS Ortaöğretim sonuçları ne zaman açıklanacak? KPSS Ortaöğretim sonuçlarına nasıl ve nereden bakılır?",
-    "link": "https://www.cumhuriyet.com.tr/egitim/2026-kpss-ortaogretim-sonuclari-ne-zaman-aciklanacak-kpss-ortaogretim-sonuclarina-nasil-ve-nereden-bakilir-2556181",
-    "timestamp": 1794682440.0,
-    "datetime_str": "2026-11-14 18:54:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Cevdet Yılmaz'dan fon açıklaması",
-    "link": "https://www.haberturk.com/ekonomi/cumhurbaskani-yardimcisi-yilmaz-fon-odemeleri-ve-sorusturmadaki-son-durumu-anlatti-3927418",
-    "timestamp": 1794682396.0,
-    "datetime_str": "2026-11-14 18:53:16",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Çinli akademisyen Osmanlı tarihini fes ve yeniçeri bıyığıyla anlattı",
-    "link": "https://www.yenisafak.com/video/dunya/cinli-akademisyen-osmanli-tarihini-fes-ve-yeniceri-biyigiyla-anlatti-4872489",
-    "timestamp": 1794682347.0,
-    "datetime_str": "2026-11-14 18:52:27",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Kılıçdaroğlu'ndan 'başörtüsü siyaseti' itirafı: En büyük hatamızdı",
-    "link": "https://www.yenisafak.com/gundem/kilicdaroglundan-basortusu-siyaseti-itirafi-en-buyuk-hatamizdi-4872488",
-    "timestamp": 1794682304.0,
-    "datetime_str": "2026-11-14 18:51:44",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "COP31'de gençlik ve eğitim günü | Milli Eğitim Bakanı Tekin: ''Çocuklarımıza çevre bilincini aşılıyoruz''",
-    "link": "https://www.cnnturk.com/video/turkiye/cop31de-genclik-ve-egitim-gunu-milli-egitim-bakani-tekin-cocuklarimiza-cevre-bilincini-asiliyoruz-3493209",
-    "timestamp": 1794682285.0,
-    "datetime_str": "2026-11-14 18:51:25",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "Sergen Yalçın: Millî takımımızın ve ülkemizin galibiyete ihtiyacı var",
-    "link": "https://www.aydinlik.com.tr/haber/sergen-yalcin-milli-takimimizin-ve-ulkemizin-galibiyete-ihtiyaci-var-598953",
-    "timestamp": 1794682173.0,
-    "datetime_str": "2026-11-14 18:49:33",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "Tüketiciler dikkat! Kasım indirimlerinde fiyat oyunu... Gerçek indirim nasıl anlaşılır? | DETAY HABER",
-    "link": "https://www.cnnturk.com/ekonomi/tuketiciler-dikkat-kasim-indirimlerinde-fiyat-oyunu-gercek-indirim-nasil-anlasilir-detay-haber-3493210",
-    "timestamp": 1794682161.0,
-    "datetime_str": "2026-11-14 18:49:21",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "ABD’de kaos devam ediyor: Bugün de binlerce uçuş iptal edilecek",
-    "link": "https://www.sozcu.com.tr/abd-de-kaos-devam-ediyor-bugun-de-binlerce-ucus-iptal-edilecek-p381369",
-    "timestamp": 1794682158.0,
-    "datetime_str": "2026-11-14 18:49:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "AÇLIK ÜZERİNDEN ABLUKA TEHDİDİ",
-    "link": "https://www.turkiyegazetesi.com.tr/dunya/irandan-abdye-cok-konusulacak-suclama-aclik-uzerinden-abluka-tehdidi-1829353",
-    "timestamp": 1794682025.0,
-    "datetime_str": "2026-11-14 18:47:05",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Hürriyet",
-    "title": "ABD: Bugün 41 bin uçuştan 4 ila 5 bin kadarının iptal edileceğini öngörüyoruz",
-    "link": "https://www.hurriyet.com.tr/dunya/abd-bugun-41-bin-ucustan-4-ila-5-bin-kadarinin-iptal-edilecegini-ongoruyoruz-43378638",
-    "timestamp": 1794681903.0,
-    "datetime_str": "2026-11-14 18:45:03",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Kaza sonrası ortalık savaş alanına döndü: Anne ve baba öldü, iki çocuk yaralandı",
-    "link": "https://www.sozcu.com.tr/kaza-sonrasi-ortalik-savas-alanina-dondu-anne-ve-baba-oldu-iki-cocuk-yaralandi-p381367",
-    "timestamp": 1794681884.0,
-    "datetime_str": "2026-11-14 18:44:44",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Şanlıurfa'da Filistin için sessiz yürüyüş",
-    "link": "https://www.odatv.com/guncel/sanliurfada-filistin-icin-sessiz-yuruyus-120171240",
-    "timestamp": 1794681623.0,
-    "datetime_str": "2026-11-14 18:40:23",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Cumhurbaşkanı Yardımcısı Yılmaz fon soruşturmasında tasfiye sürecinin son durumunu paylaştı: 161 milyar TL ödeme yapıldı",
-    "link": "https://www.yenisafak.com/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-sorusturmasinda-tasfiye-surecinin-son-durumunu-paylasti-161-milyar-tl-odeme-yapildi-4872487",
-    "timestamp": 1794681531.0,
-    "datetime_str": "2026-11-14 18:38:51",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "İzmir'de uyuşturucu operasyonu: 16 tutuklama",
-    "link": "https://www.haberturk.com/gundem/uyusturucu-operasyonunda-orgut-elebasinin-da-aralarinda-bulundugu-16-supheli-tutuklandi-3927414",
-    "timestamp": 1794681518.0,
-    "datetime_str": "2026-11-14 18:38:38",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Milliyet",
-    "title": "ABD Suudi Arabistan'daki vatandaşlarını Husi saldırıları tehdidine karşı uyardı",
-    "link": "https://www.milliyet.com.tr/dunya/abd-suudi-arabistandaki-vatandaslarini-husi-saldirilari-tehdidine-karsi-uyardi-7700836",
-    "timestamp": 1794681476.0,
-    "datetime_str": "2026-11-14 18:37:56",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "CNN Türk",
-    "title": "SON DAKİKA | Jandarma Binbaşı Arslan Kulaksız'ı şehit eden fail ile 2 şüpheli ortak operasyonla yakalandı",
-    "link": "https://www.cnnturk.com/turkiye/son-dakika-jandarma-binbasi-arslan-kulaksizi-sehit-eden-fail-ile-2-supheli-ortak-operasyonla-yakalandi-3493207",
-    "timestamp": 1794681457.0,
-    "datetime_str": "2026-11-14 18:37:37",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Hürriyet",
-    "title": "Feci kaza…. İş makinasına çarpan otomobildeki çift öldü, 2 çocuk yaralandı",
-    "link": "https://www.hurriyet.com.tr/gundem/feci-kaza-is-makinasina-carpan-otomobildeki-cift-oldu-2-cocuk-yaralandi-43378634",
-    "timestamp": 1794681300.0,
-    "datetime_str": "2026-11-14 18:35:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Karar",
-    "title": "Sergen Yalçın'dan eleştirilere cevap: Önceki maçları ben oynamadım",
-    "link": "https://www.karar.com/spor-haberleri/sergen-yalcindan-elestirilere-cevap-onceki-maclari-ben-oynamadim-2084158",
-    "timestamp": 1794681120.0,
-    "datetime_str": "2026-11-14 18:32:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "İŞTE SON RAKAMLAR",
-    "link": "https://www.turkiyegazetesi.com.tr/gundem/fon-sorusturmasinda-son-durum-cevdet-yilmaz-161-milyar-lira-odeme-yapildi-1829352",
-    "timestamp": 1794681038.0,
-    "datetime_str": "2026-11-14 18:30:38",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "ABD'de uçuş krizi: Hava ulaşımındaki aksamalar sürüyor",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/abd-de-ucus-krizi-hava-ulasimindaki-aksamalar-suruyor-2556180",
-    "timestamp": 1794681000.0,
-    "datetime_str": "2026-11-14 18:30:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Türkiye ile Katar arasında kritik görüşme",
-    "link": "https://www.haberturk.com/dunya/genelkurmay-baskani-bayraktaroglu-katarli-mevkidasi-al-mannai-ile-bolgesel-konulari-gorustu-3927413",
-    "timestamp": 1794680961.0,
-    "datetime_str": "2026-11-14 18:29:21",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Zidane açıkladı: Mbappe Türkiye'ye karşı oynayacak mı?",
-    "link": "https://www.sozcu.com.tr/zidane-acikladi-mbappe-turkiyeye-karsi-oynayacak-mi-p381368",
-    "timestamp": 1794680871.0,
-    "datetime_str": "2026-11-14 18:27:51",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Şam kırsalında araçta patlama: İki ölü iki yaralı",
-    "link": "https://www.yenisafak.com/dunya/sam-kirsalinda-aracta-patlama-iki-olu-iki-yarali-4872486",
-    "timestamp": 1794680819.0,
-    "datetime_str": "2026-11-14 18:26:59",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "A Milli Takım, Fransa deplasmanına hazır",
-    "link": "https://www.sozcu.com.tr/a-milli-takim-fransa-deplasmanina-hazir-p381366",
-    "timestamp": 1794680757.0,
-    "datetime_str": "2026-11-14 18:25:57",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Hacı Yakışıklı geri adım attı: 10 Kasım sözlerine tepki yağmıştı",
-    "link": "https://www.sozcu.com.tr/haci-yakisikli-geri-adim-atti-10-kasim-sozlerine-tepki-yagmisti-p381364",
-    "timestamp": 1794680552.0,
-    "datetime_str": "2026-11-14 18:22:32",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "İki ülke arasında savaş çıktı! Şiddetli çatışmalar yaşanıyor",
-    "link": "https://www.turkiyegazetesi.com.tr/dunya/iki-ulke-arasinda-savas-cikti-siddetli-catismalar-yasaniyor-1829351",
-    "timestamp": 1794680523.0,
-    "datetime_str": "2026-11-14 18:22:03",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "Bursa’da taş ocaklarına tepki: Kapasite artışları durdurulsun",
-    "link": "https://www.aydinlik.com.tr/haber/bursada-tas-ocaklarina-tepki-kapasite-artislari-durdurulsun-598952",
-    "timestamp": 1794680463.0,
-    "datetime_str": "2026-11-14 18:21:03",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Fransa'da protestoların beşinci turu: 121 kişi gözaltına alındı",
-    "link": "https://www.cumhuriyet.com.tr/dunya/fransa-da-protestolarin-besinci-turu-121-kisi-gozaltina-alindi-2556179",
-    "timestamp": 1794680340.0,
-    "datetime_str": "2026-11-14 18:19:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Zidane duyurdu... Türkiye maçı öncesi Mbappe kararı",
-    "link": "https://www.cumhuriyet.com.tr/spor/zidane-duyurdu-turkiye-maci-oncesi-mbappe-karari-2556178",
-    "timestamp": 1794680220.0,
-    "datetime_str": "2026-11-14 18:17:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "ABD'DE UÇUŞ KRİZİ BİTMİYOR",
-    "link": "https://www.turkiyegazetesi.com.tr/dunya/abdde-ucus-krizi-bitmiyor-binlerce-sefer-iptal-edildi-gozler-pazar-gununde-1829350",
-    "timestamp": 1794680147.0,
-    "datetime_str": "2026-11-14 18:15:47",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Kılıçdaroğlu'ndan AKP ve MHP ittifakına yeşil ışık",
-    "link": "https://www.odatv.com/siyaset/kilicdaroglundan-akp-ve-mhp-ittifakina-yesil-isik-120171239",
-    "timestamp": 1794680121.0,
-    "datetime_str": "2026-11-14 18:15:21",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "Rami Kütüphanesi’nde çocuk hakları şenliği başladı",
-    "link": "https://www.aydinlik.com.tr/haber/rami-kutuphanesinde-haklarim-var-senligi-598950",
-    "timestamp": 1794680100.0,
-    "datetime_str": "2026-11-14 18:15:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "A Milli Futbol Takımı, Fransa maçının hazırlıklarını tamamladı",
-    "link": "https://www.aydinlik.com.tr/haber/a-milli-futbol-takimi-fransa-macinin-hazirliklarini-tamamladi-598951",
-    "timestamp": 1794680073.0,
-    "datetime_str": "2026-11-14 18:14:33",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Milli Takım, Fransa maçına hazır",
-    "link": "https://www.haberturk.com/spor/a-milli-takim-fransa-macina-hazir-3927412",
-    "timestamp": 1794680058.0,
-    "datetime_str": "2026-11-14 18:14:18",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Mutlak butlan Kılıçdaroğlu’ndan AKP-MHP ittifakına yeşil ışık: 'Beka sorunu olursa değerlendirilebilir'",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-ndan-akp-mhp-ittifakina-yesil-isik-beka-sorunu-olursa-degerlendirilebilir-2556177",
-    "timestamp": 1794679980.0,
-    "datetime_str": "2026-11-14 18:13:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Türk askeri heyetinden Yunanistan’ın Girit Adası’ndaki hava üssüne ziyaret",
-    "link": "https://www.yenisafak.com/gundem/turk-askeri-heyetinden-yunanistanin-girit-adasindaki-hava-ussune-ziyaret-4872485",
-    "timestamp": 1794679921.0,
-    "datetime_str": "2026-11-14 18:12:01",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Hürriyet",
-    "title": "İzmir merkezli uyuşturucu operasyonunda 16 şüpheliye tutuklama",
-    "link": "https://www.hurriyet.com.tr/gundem/izmir-merkezli-uyusturucu-operasyonunda-16-supheliye-tutuklama-43378624",
-    "timestamp": 1794679913.0,
-    "datetime_str": "2026-11-14 18:11:53",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "2027 LGS ne zaman yapılacak? MEB 2027 LGS başvuruları başladı mı?",
-    "link": "https://www.cumhuriyet.com.tr/egitim/2027-lgs-ne-zaman-yapilacak-meb-2027-lgs-basvurulari-basladi-mi-2556176",
-    "timestamp": 1794679860.0,
-    "datetime_str": "2026-11-14 18:11:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Galatasaray son saniye basketiyle yenildi",
-    "link": "https://www.sozcu.com.tr/galatasaray-son-saniye-basketiyle-yenildi-p381365",
-    "timestamp": 1794679688.0,
-    "datetime_str": "2026-11-14 18:08:08",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "\"Tekrar burada olduğum için çok mutluyum\"",
-    "link": "https://www.haberturk.com/spor/berke-ozer-tekrardan-bu-takimin-bir-parcasi-oldugum-icin-cok-mutluyum-3927409",
-    "timestamp": 1794679639.0,
-    "datetime_str": "2026-11-14 18:07:19",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Hürriyet",
-    "title": "Son dakika... Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan önemli açıklamalar",
-    "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-yardimcisi-cevdet-yilmazdan-onemli-aciklamalar-43378623",
-    "timestamp": 1794679560.0,
-    "datetime_str": "2026-11-14 18:06:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Rize'de sıra dışı güzellik yarışması",
-    "link": "https://www.haberturk.com/gundem/rize-de-duzenlenen-guzellik-yarismasinda-26-atmaca-juri-karsisina-cikti-3927411",
-    "timestamp": 1794679555.0,
-    "datetime_str": "2026-11-14 18:05:55",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Aydınlık",
-    "title": "Furkan Gökgöz: Gençler iklim çalışmalarını şehirlerinde yaygınlaştıracak",
-    "link": "https://www.aydinlik.com.tr/haber/cop31-sonrasinda-gencler-iklim-farkindaligi-calismalari-yapacak-598949",
-    "timestamp": 1794679513.0,
-    "datetime_str": "2026-11-14 18:05:13",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Sağlık Bakanlığı 38 bin personel alımı ne zaman? Sağlık Bakanlığı 38 bin personel alımı branş dağılımı belli oldu mu?",
-    "link": "https://www.cumhuriyet.com.tr/yasam/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-saglik-bakanligi-38-bin-personel-alimi-brans-dagilimi-belli-oldu-mu-2556175",
-    "timestamp": 1794679500.0,
-    "datetime_str": "2026-11-14 18:05:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Park halindeki araca çarpan otomobil takla attı",
-    "link": "https://www.yenisafak.com/gundem/park-halindeki-araca-carpan-otomobil-takla-atti-4872484",
-    "timestamp": 1794679465.0,
-    "datetime_str": "2026-11-14 18:04:25",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Fatma Betül Sayan Kaya o isimlerden başka kimseyle görüşmüyormuş",
-    "link": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-o-isimlerden-baska-kimseyle-gorusmuyormus-p381360",
-    "timestamp": 1794679464.0,
-    "datetime_str": "2026-11-14 18:04:24",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Firariydi yeri tespit edildi: 19 yıl hapis cezası bulunan hükümlü yakalandı",
-    "link": "https://www.yenisafak.com/gundem/edremitte-firari-hukumlu-md-operasyonla-yakalandi-4872483",
-    "timestamp": 1794679424.0,
-    "datetime_str": "2026-11-14 18:03:44",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Şanlıurfa'da feci kaza: Bir aile dağıldı",
-    "link": "https://www.odatv.com/guncel/sanliurfada-feci-kaza-bir-aile-dagildi-120171238",
-    "timestamp": 1794679290.0,
-    "datetime_str": "2026-11-14 18:01:30",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Milliyet",
-    "title": "ABD semalarında tarihi kriz sürüyor! Gecikme ve iptaller devam ediyor",
-    "link": "https://www.milliyet.com.tr/dunya/abd-semalarinda-tarihi-kriz-suruyor-gecikme-ve-iptaller-devam-ediyor-7700822",
-    "timestamp": 1794679159.0,
-    "datetime_str": "2026-11-14 17:59:19",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Körfez Basket, G.Saray'ı son saniyede yıktı!",
-    "link": "https://www.haberturk.com/spor/korfez-basket-82-galatasaray-mct-technic-81-mac-sonucu-3927407",
-    "timestamp": 1794678987.0,
-    "datetime_str": "2026-11-14 17:56:27",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "Anne ve baba öldü, çocuklar yaralandı",
-    "link": "https://www.haberturk.com/gundem/birecik-te-kepceyle-carpisan-otomobilde-cocuklar-yaralandi-anne-ve-baba-ise-hayatini-kaybetti-3927408",
-    "timestamp": 1794678905.0,
-    "datetime_str": "2026-11-14 17:55:05",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Türkiye Gazetesi",
-    "title": "KOMŞU'YA ASKERÎ ZİYARET!",
-    "link": "https://www.turkiyegazetesi.com.tr/gundem/komsuya-askeri-ziyaret-hava-kuvvetleri-heyeti-girit-adasina-gitti-1829348",
-    "timestamp": 1794678872.0,
-    "datetime_str": "2026-11-14 17:54:32",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Kılıçdaroğlu'ndan ‘AKP ve MHP ile ittifak' ihtimaline açık kapı: Beka sorunu ortaya çıkarsa",
-    "link": "https://www.sozcu.com.tr/kilicdaroglu-dan-akp-ve-mhp-ile-ittifak-ihtimaline-acik-kapi-beka-sorunu-ortaya-cikarsa-p381361",
-    "timestamp": 1794678809.0,
-    "datetime_str": "2026-11-14 17:53:29",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Yeni Şafak",
-    "title": "Rus askeri cephede kedisiyle birlikte intikal etti",
-    "link": "https://www.yenisafak.com/video/dunya/rus-askeri-cephede-kedisiyle-birlikte-intikal-etti-4872482",
-    "timestamp": 1794678723.0,
-    "datetime_str": "2026-11-14 17:52:03",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Kılıçdaroğlu'nun Kocaeli programında gazetecilere saldırı: Kadın gazeteciye tokat!",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-nun-kocaeli-programinda-gazetecilere-saldiri-kadin-gazeteciye-tokat-2556169",
-    "timestamp": 1794678660.0,
-    "datetime_str": "2026-11-14 17:51:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Cumhuriyet",
-    "title": "Körfez Basket, Galatasaray'ı son saniyede yendi",
-    "link": "https://www.cumhuriyet.com.tr/spor/korfez-basket-galatasaray-i-son-saniyede-yendi-2556168",
-    "timestamp": 1794678600.0,
-    "datetime_str": "2026-11-14 17:50:00",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Sözcü Spor",
-    "title": "Bu iddialar çok konuşulur! Leao için flaş sözler",
-    "link": "https://www.sozcu.com.tr/bu-iddialar-cok-konusulur-leao-icin-flas-sozler-p381363",
-    "timestamp": 1794678331.0,
-    "datetime_str": "2026-11-14 17:45:31",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Karar",
-    "title": "Şanlıurfa Birecik'te feci kaza! Anne ve baba hayatını kaybetti, 2 çocuk yaralandı",
-    "link": "https://www.karar.com/guncel-haberler/sanliurfa-birecikte-feci-kaza-anne-ve-baba-hayatini-kaybetti-2-cocuk-2084157",
-    "timestamp": 1794678321.0,
-    "datetime_str": "2026-11-14 17:45:21",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "Habertürk",
-    "title": "\"Ülkemizin galibiyete ihtiyacı var\"",
-    "link": "https://www.haberturk.com/spor/a-milli-takim-teknik-direktoru-sergen-yalcin-ulkemizin-galibiyete-ihtiyaci-var-3927406",
-    "timestamp": 1794678306.0,
-    "datetime_str": "2026-11-14 17:45:06",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
-  },
-  {
-    "source": "OdaTV",
-    "title": "Adnan Şenses'in kızı Arzum Şenses siyasete atıldı",
-    "link": "https://www.odatv.com/guncel/adnan-sensesin-kizi-arzum-senses-siyasete-atildi-arzum-senses-akpye-katildi-120171237",
-    "timestamp": 1794678288.0,
-    "datetime_str": "2026-11-14 17:44:48",
-    "fetched_at": "2026-11-14T23:26:45.547062+00:00"
+    "fetched_at": "2026-11-15T02:59:35.808013+00:00"
   }
 ]
